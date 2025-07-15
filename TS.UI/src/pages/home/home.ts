@@ -15,7 +15,7 @@ export class Home {
       name: 'Sample Card',
       description: 'This is a sample card description.',
       price: '€10',
-      imageUrl: './public/images/placeholder.jpg',
+      imageUrl: 'assets/images/placeholder.jpg',
     },
   ]);
 }
