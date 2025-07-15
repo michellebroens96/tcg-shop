@@ -1,2 +1,6 @@
 <app-navbar />
-<p>home works!</p>
+<div class="grid grid-cols-3 gap-4">
+  @for (card of cards(); track $index) {
+  <app-info-card [card]="card" />
+  }
+</div>
