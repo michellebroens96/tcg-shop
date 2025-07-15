@@ -16,7 +16,7 @@ export class Home {
   private http = inject(HttpClient);
   ngOnInit() {
     this.http
-      .get('assets/csv/FTC.csv', { responseType: 'text' })
+      .get('assets/csv/HVN.csv', { responseType: 'text' })
       .subscribe((csvData) => {
         Papa.parse(csvData, {
           header: true,
