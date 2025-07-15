@@ -1,6 +1,20 @@
 <div class="flex flex-col items-center w-full max-w-xs p-4">
   <p>{{ card()?.name }}</p>
-  <img class="h-72 w-54" [src]="card()?.imageUrl" alt="{{ card()?.name }}" />
+  <div
+    [ngClass]="{
+      'p-1 rounded-md ': card()?.foil,
+    }"
+    [ngStyle]="
+      card()?.foil
+        ? {
+            background:
+              'linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet)'
+          }
+        : {}
+    "
+  >
+    <img class="h-72 w-54" [src]="card()?.imageUrl" alt="{{ card()?.name }}" />
+  </div>
   <p>{{ card()?.description }}</p>
   <p>Price: {{ card()?.price }}</p>
 </div>

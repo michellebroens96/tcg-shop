@@ -21,6 +21,7 @@ export class Home {
       name: 'Sample Card',
       price: '€10',
       imageUrl: 'assets/images/placeholder.jpg',
+      foil: true,
     },
     {
       id: 2,
