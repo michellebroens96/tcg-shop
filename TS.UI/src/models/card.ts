@@ -1,8 +1,9 @@
 export interface Card {
-  id: number;
+  productId: number;
   name: string;
-  description?: string;
+  extDescription?: string;
   imageUrl: string;
-  price: string;
-  foil?: boolean;
+  marketPrice: string;
+  midPrice: string;
+  subTypeName?: string;
 }

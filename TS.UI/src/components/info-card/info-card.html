@@ -2,10 +2,10 @@
   <p>{{ card()?.name }}</p>
   <div
     [ngClass]="{
-      'p-1 rounded-md ': card()?.foil,
+      'p-1 rounded-md ': card()?.subTypeName === 'Foil',
     }"
     [ngStyle]="
-      card()?.foil
+      card()?.subTypeName === 'Foil'
         ? {
             background:
               'linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet)'
@@ -15,6 +15,6 @@
   >
     <img class="h-72 w-54" [src]="card()?.imageUrl" alt="{{ card()?.name }}" />
   </div>
-  <p>{{ card()?.description }}</p>
-  <p>Price: {{ card()?.price }}</p>
+  <!-- <p>{{ card()?.extDescription }}</p> -->
+  <p>Price: ${{ card()?.marketPrice || card()?.midPrice }}</p>
 </div>

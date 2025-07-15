@@ -1,0 +1,583 @@
+productId,name,cleanName,imageUrl,categoryId,groupId,url,modifiedOn,imageCount,extRarity,extNumber,extDescription,extCardType,extCardSubtype,extElement,extClass,extReserveCost,lowPrice,midPrice,highPrice,marketPrice,directLowPrice,subTypeName,extMemoryCost,extSpeed,extFlavorText,extLevel,extLife,extPower,extDurability
+498009,Dawn of Ashes,Dawn of Ashes,https://tcgplayer-cdn.tcgplayer.com/product/498009_200w.jpg,74,23212,https://cpt.tcgcsv.com/cd_5,2023-08-25T04:03:10.707,1,Super Rare,030,"Upkeep — At the beginning of your recollection phase, reveal a card at random from your memory. If that card is not norm element, sacrifice Dawn of Ashes.
+<br>
+Non-norm element cards cost 1 more to activate.",Domain;Unique,Cataclysm,Norm,Cleric,3,2.45,4.74,15.99,6.0,,Normal,,,,,,,
+498009,Dawn of Ashes,Dawn of Ashes,https://tcgplayer-cdn.tcgplayer.com/product/498009_200w.jpg,74,23212,https://cpt.tcgcsv.com/cd_5,2023-08-25T04:03:10.707,1,Super Rare,030,"Upkeep — At the beginning of your recollection phase, reveal a card at random from your memory. If that card is not norm element, sacrifice Dawn of Ashes.
+<br>
+Non-norm element cards cost 1 more to activate.",Domain;Unique,Cataclysm,Norm,Cleric,3,12.0,12.99,21.98,11.08,,Foil,,,,,,,
+498010,Deep Sea Fractal,Deep Sea Fractal,https://tcgplayer-cdn.tcgplayer.com/product/498010_200w.jpg,74,23212,https://cpt.tcgcsv.com/dd_5,2023-08-25T04:03:10.707,1,Common,059,"Hindered (This object enters the field rested.)
+<br>
+On Enter: Each player puts the top card of their deck into their graveyard.
+<br>
+Reservable (While paying for a reserve cost, you may rest this object to pay for 1 of that cost.)",Phantasia,Fractal,Water,Cleric,2,0.05,0.15,2.0,0.1,,Normal,,,,,,,
+498010,Deep Sea Fractal,Deep Sea Fractal,https://tcgplayer-cdn.tcgplayer.com/product/498010_200w.jpg,74,23212,https://cpt.tcgcsv.com/dd_5,2023-08-25T04:03:10.707,1,Common,059,"Hindered (This object enters the field rested.)
+<br>
+On Enter: Each player puts the top card of their deck into their graveyard.
+<br>
+Reservable (While paying for a reserve cost, you may rest this object to pay for 1 of that cost.)",Phantasia,Fractal,Water,Cleric,2,0.2,0.5,6.86,0.34,,Foil,,,,,,,
+498011,Effigy of Gaia,Effigy of Gaia,https://tcgplayer-cdn.tcgplayer.com/product/498011_200w.jpg,74,23212,https://cpt.tcgcsv.com/fd_5,2023-08-25T04:03:10.707,1,Super Rare,019,"[Class Bonus] Your champion gets +1 level as long as you control an Animal or Beast ally.
+<br>
+Whenever an opponent activates an attack card with cleave, Animal and Beast allies you control get +2 Life until end of turn.",Item;Regalia,Bauble,Wind,Tamer,,0.1,0.5,5.0,0.38,,Normal,0,,,,,,
+498011,Effigy of Gaia,Effigy of Gaia,https://tcgplayer-cdn.tcgplayer.com/product/498011_200w.jpg,74,23212,https://cpt.tcgcsv.com/fd_5,2023-08-25T04:03:10.707,1,Super Rare,019,"[Class Bonus] Your champion gets +1 level as long as you control an Animal or Beast ally.
+<br>
+Whenever an opponent activates an attack card with cleave, Animal and Beast allies you control get +2 Life until end of turn.",Item;Regalia,Bauble,Wind,Tamer,,3.99,4.99,99.99,4.32,,Foil,0,,,,,,
+498012,Fast Cure,Fast Cure,https://tcgplayer-cdn.tcgplayer.com/product/498012_200w.jpg,74,23212,https://cpt.tcgcsv.com/gd_5,2023-08-25T04:03:10.707,1,Common,032,"If target opponent's influence is greater than yours, recover 4. (A player's influence is equal to the total amount of cards in their hand and memory.)
+<br>
+Floating Memory",Action,Spell,Norm,Cleric,2,0.2,1.25,2.0,1.2,,Normal,,Fast,<em>A brief respite in dire times may give enough focus to birth a plan.</em>,,,,
+498012,Fast Cure,Fast Cure,https://tcgplayer-cdn.tcgplayer.com/product/498012_200w.jpg,74,23212,https://cpt.tcgcsv.com/gd_5,2023-08-25T04:03:10.707,1,Common,032,"If target opponent's influence is greater than yours, recover 4. (A player's influence is equal to the total amount of cards in their hand and memory.)
+<br>
+Floating Memory",Action,Spell,Norm,Cleric,2,7.99,13.86,14.95,7.37,,Foil,,Fast,<em>A brief respite in dire times may give enough focus to birth a plan.</em>,,,,
+498013,Fractal of Insight,Fractal of Insight,https://tcgplayer-cdn.tcgplayer.com/product/498013_200w.jpg,74,23212,https://cpt.tcgcsv.com/hd_5,2023-08-25T04:03:10.707,1,Common,033,"On Enter: You may rest Fractal of Insight. If you do, glimpse 2.
+<br>
+Reservable (While paying for a reserve cost, you may rest this object to pay for 1 of that cost.)",Phantasia,Fractal,Norm,Mage,2,0.05,0.18,2.0,0.12,,Normal,,,"<em>An enigma that defies, and yet, sharpens reality.</em>",,,,
+498013,Fractal of Insight,Fractal of Insight,https://tcgplayer-cdn.tcgplayer.com/product/498013_200w.jpg,74,23212,https://cpt.tcgcsv.com/hd_5,2023-08-25T04:03:10.707,1,Common,033,"On Enter: You may rest Fractal of Insight. If you do, glimpse 2.
+<br>
+Reservable (While paying for a reserve cost, you may rest this object to pay for 1 of that cost.)",Phantasia,Fractal,Norm,Mage,2,0.72,1.02,7.72,0.73,,Foil,,,"<em>An enigma that defies, and yet, sharpens reality.</em>",,,,
+498014,"Merlin, Kingslayer (A) (CSR)",Merlin Kingslayer A CSR,https://tcgplayer-cdn.tcgplayer.com/product/498014_200w.jpg,74,23212,https://cpt.tcgcsv.com/jd_5,2023-08-25T04:03:10.707,1,Collector Super Rare,004A,"Merlin Lineage
+<br>
+At the beginning of your recollection phase, put a level counter on Merlin. Then, if there's an even amount of level counters on Merlin, draw a card and Merlin's attacks get +2 Power until end of turn.",Champion,Human,Crux,Warrior;Mage,,644.98,644.99,644.99,,,Foil,3,,,3,28,,
+498015,"Kraal, Stonescale Tyrant (CSR)",Kraal Stonescale Tyrant CSR,https://tcgplayer-cdn.tcgplayer.com/product/498015_200w.jpg,74,23212,https://cpt.tcgcsv.com/kd_5,2023-08-25T04:03:10.707,1,Collector Super Rare,090,"As an additional cost to activate this card, banish two preserved cards from your material deck.
+<br>
+Intercept, Spellshroud, True Sight, Vigor
+<br>
+[Class Bonus] On Attack: Reveal the top two cards of your deck and put them into your material deck preserved.",Ally;Unique,Beast;Dragon,Tera,Tamer,5,299.98,299.99,593.25,118.75,,Foil,,,,,8,6,
+498016,Illuminate Secrets,Illuminate Secrets,https://tcgplayer-cdn.tcgplayer.com/product/498016_200w.jpg,74,23212,https://cpt.tcgcsv.com/ld_5,2023-08-25T04:03:10.707,1,Rare,087,Deal an amount of damage to target unit equal to its owner's influence minus your influence. (A player's influence is equal to the total amount of cards in their hand and memory.),Action,Spell,Luxem,Mage;Assassin,2,0.46,0.85,3.99,0.63,,Foil,,Fast,<em>The light protects those unjustly oppressed.</em>,,,,
+498016,Illuminate Secrets,Illuminate Secrets,https://tcgplayer-cdn.tcgplayer.com/product/498016_200w.jpg,74,23212,https://cpt.tcgcsv.com/ld_5,2023-08-25T04:03:10.707,1,Rare,087,Deal an amount of damage to target unit equal to its owner's influence minus your influence. (A player's influence is equal to the total amount of cards in their hand and memory.),Action,Spell,Luxem,Mage;Assassin,2,0.09,0.2,2.0,0.14,,Normal,,Fast,<em>The light protects those unjustly oppressed.</em>,,,,
+498017,Innervate Agility,Innervate Agility,https://tcgplayer-cdn.tcgplayer.com/product/498017_200w.jpg,74,23212,https://cpt.tcgcsv.com/md_5,2023-08-25T04:03:10.707,1,Rare,076,"As an additional cost to activate this card, delevel your champion and recover 5. (To delevel your champion, return the cop card of its lineage to your material deck.)
+<br>
+Units you control gain your choice of stealth or spellshroud until end of turn.",Action,Reaction;Spell,Wind,Mage,2,9.99,13.69,13.74,8.68,,Foil,,Fast,,,,,
+498017,Innervate Agility,Innervate Agility,https://tcgplayer-cdn.tcgplayer.com/product/498017_200w.jpg,74,23212,https://cpt.tcgcsv.com/md_5,2023-08-25T04:03:10.707,1,Rare,076,"As an additional cost to activate this card, delevel your champion and recover 5. (To delevel your champion, return the cop card of its lineage to your material deck.)
+<br>
+Units you control gain your choice of stealth or spellshroud until end of turn.",Action,Reaction;Spell,Wind,Mage,2,1.36,1.47,3.99,1.41,,Normal,,Fast,,,,,
+498018,"Kraal, Stonescale Tyrant",Kraal Stonescale Tyrant,https://tcgplayer-cdn.tcgplayer.com/product/498018_200w.jpg,74,23212,https://cpt.tcgcsv.com/nd_5,2023-08-25T04:03:10.707,1,Super Rare,090,"As an additional cost to activate this card, banish two preserved cards from your material deck.
+<br>
+Intercept, Spellshroud, True Sight, Vigor
+<br>
+[Class Bonus] On Attack: Reveal the top two cards of your deck and put them into your material deck preserved.",Ally;Unique,Beast;Dragon,Tera,Tamer,5,8.0,11.95,36.98,9.99,,Foil,,,,,8,6,
+498018,"Kraal, Stonescale Tyrant",Kraal Stonescale Tyrant,https://tcgplayer-cdn.tcgplayer.com/product/498018_200w.jpg,74,23212,https://cpt.tcgcsv.com/nd_5,2023-08-25T04:03:10.707,1,Super Rare,090,"As an additional cost to activate this card, banish two preserved cards from your material deck.
+<br>
+Intercept, Spellshroud, True Sight, Vigor
+<br>
+[Class Bonus] On Attack: Reveal the top two cards of your deck and put them into your material deck preserved.",Ally;Unique,Beast;Dragon,Tera,Tamer,5,0.79,1.82,6.99,1.82,,Normal,,,,,8,6,
+498020,"Lancelot, Goliath of Aesa (CSR)",Lancelot Goliath of Aesa CSR,https://tcgplayer-cdn.tcgplayer.com/product/498020_200w.jpg,74,23212,https://cpt.tcgcsv.com/qd_5,2023-08-25T04:03:10.707,1,Collector Super Rare,037,"Hindered
+<br>
+[Class Bonus] [Level 2+] Lancelot gets +2 Life.
+<br>
+On Attack: You may pay (3). If you do, Lancelot gets +3 Power until end of turn.",Ally;Unique,Human,Norm,Warrior;Guardian,4,74.99,91.99,450.0,76.31,,Foil,,,"<em>""I greet the burden of a thousand lives...""</em>",,3,2,
+498021,"Lancelot, Goliath of Aesa",Lancelot Goliath of Aesa,https://tcgplayer-cdn.tcgplayer.com/product/498021_200w.jpg,74,23212,https://cpt.tcgcsv.com/rd_5,2023-08-25T04:03:10.707,1,Super Rare,037,"Hindered
+<br>
+[Class Bonus] [Level 2+] Lancelot gets +2 Life.
+<br>
+On Attack: You may pay (3). If you do, Lancelot gets +3 Power until end of turn.",Ally;Unique,Beast;Dragon,Norm,Tamer,4,1.66,4.64,13.96,1.66,,Foil,,,"<em>""I greet the burden of a thousand lives...""</em>",,3,2,
+498021,"Lancelot, Goliath of Aesa",Lancelot Goliath of Aesa,https://tcgplayer-cdn.tcgplayer.com/product/498021_200w.jpg,74,23212,https://cpt.tcgcsv.com/rd_5,2023-08-25T04:03:10.707,1,Super Rare,037,"Hindered
+<br>
+[Class Bonus] [Level 2+] Lancelot gets +2 Life.
+<br>
+On Attack: You may pay (3). If you do, Lancelot gets +3 Power until end of turn.",Ally;Unique,Beast;Dragon,Norm,Tamer,4,0.24,0.79,9.99,0.36,,Normal,,,"<em>""I greet the burden of a thousand lives...""</em>",,3,2,
+498024,Mark of Fervor,Mark of Fervor,https://tcgplayer-cdn.tcgplayer.com/product/498024_200w.jpg,74,23212,https://cpt.tcgcsv.com/vd_5,2023-08-25T04:03:10.707,1,Common,078,"Ally Link (This object enters the field linked to target ally. If the link is broken, sacrifice this object.)
+<br>
+Linked ally gets +1 Power and +1 Life, and has vigor.",Phantasia,Spell,Wind,Tamer,2,0.1,0.35,4.99,0.28,,Foil,,,"<em>Through powerful bonds, one's inner strength can freely flourish.</em>",,,,
+498024,Mark of Fervor,Mark of Fervor,https://tcgplayer-cdn.tcgplayer.com/product/498024_200w.jpg,74,23212,https://cpt.tcgcsv.com/vd_5,2023-08-25T04:03:10.707,1,Common,078,"Ally Link (This object enters the field linked to target ally. If the link is broken, sacrifice this object.)
+<br>
+Linked ally gets +1 Power and +1 Life, and has vigor.",Phantasia,Spell,Wind,Tamer,2,0.04,0.15,1.99,0.07,,Normal,,,"<em>Through powerful bonds, one's inner strength can freely flourish.</em>",,,,
+498025,"Merlin, Kingslayer",Merlin Kingslayer,https://tcgplayer-cdn.tcgplayer.com/product/498025_200w.jpg,74,23212,https://cpt.tcgcsv.com/wd_5,2023-08-25T04:03:10.707,1,Super Rare,004,"Merlin Lineage
+<br>
+At the beginning of your recollection phase, put a level counter on Merlin. Then, if there's an even amount of level counters on Merlin, draw a card and Merlin's attacks get +2 Power until end of turn.",Champion,Human,Crux,Warrior;Mage,,42.75,45.0,49.96,38.37,,Foil,3,,,3,28,,
+498025,"Merlin, Kingslayer",Merlin Kingslayer,https://tcgplayer-cdn.tcgplayer.com/product/498025_200w.jpg,74,23212,https://cpt.tcgcsv.com/wd_5,2023-08-25T04:03:10.707,1,Super Rare,004,"Merlin Lineage
+<br>
+At the beginning of your recollection phase, put a level counter on Merlin. Then, if there's an even amount of level counters on Merlin, draw a card and Merlin's attacks get +2 Power until end of turn.",Champion,Human,Crux,Warrior;Mage,,2.8,4.11,29.99,3.64,,Normal,3,,,3,28,,
+498026,Ocean's Blessing,Oceans Blessing,https://tcgplayer-cdn.tcgplayer.com/product/498026_200w.jpg,74,23212,https://cpt.tcgcsv.com/xd_5,2023-08-25T04:03:10.707,1,Uncommon,066,"Ally Link (This object enters the field linked to target ally. If the link is broken, sacrifice this object.)
+<br>
+Linked ally gets +1 Life and has taunt.
+<br>
+[Class Bonus] Floating Memory",Phantasia,Spell,Water,Tamer,2,0.05,0.17,2.99,0.15,,Normal,,,,,,,
+498026,Ocean's Blessing,Oceans Blessing,https://tcgplayer-cdn.tcgplayer.com/product/498026_200w.jpg,74,23212,https://cpt.tcgcsv.com/xd_5,2023-08-25T04:03:10.707,1,Uncommon,066,"Ally Link (This object enters the field linked to target ally. If the link is broken, sacrifice this object.)
+<br>
+Linked ally gets +1 Life and has taunt.
+<br>
+[Class Bonus] Floating Memory",Phantasia,Spell,Water,Tamer,2,0.25,0.78,3.99,0.78,,Foil,,,,,,,
+498027,Protective Fractal,Protective Fractal,https://tcgplayer-cdn.tcgplayer.com/product/498027_200w.jpg,74,23212,https://cpt.tcgcsv.com/zd_5,2023-08-25T04:03:10.707,1,Common,067,"Reservable (While paying for a reserve cost, you may rest this object to pay for 1 of that cost.)
+<br>
+REST: Prevent the next 1 damage that would be dealt to target champion this turn.",Phantasia,Fractal,Water,Cleric,4,0.04,0.16,1.32,0.09,,Normal,,,,,,,
+498027,Protective Fractal,Protective Fractal,https://tcgplayer-cdn.tcgplayer.com/product/498027_200w.jpg,74,23212,https://cpt.tcgcsv.com/zd_5,2023-08-25T04:03:10.707,1,Common,067,"Reservable (While paying for a reserve cost, you may rest this object to pay for 1 of that cost.)
+<br>
+REST: Prevent the next 1 damage that would be dealt to target champion this turn.",Phantasia,Fractal,Water,Cleric,4,0.1,0.48,4.25,0.4,,Foil,,,,,,,
+498028,Scavenging Raccoon,Scavenging Raccoon,https://tcgplayer-cdn.tcgplayer.com/product/498028_200w.jpg,74,23212,https://cpt.tcgcsv.com/Bd_5,2023-08-25T04:03:10.707,1,Common,045,On Enter: Banish up to two target cards from a single graveyard.,Ally,Animal;Raccoon,Norm,Tamer,2,0.05,0.18,2.0,0.13,,Normal,,,<em>Looters have conditioned these diligent creatures to scavenge the battlefield for any source of glint or glitter in exchange for a treat.</em>,,1,1,
+498028,Scavenging Raccoon,Scavenging Raccoon,https://tcgplayer-cdn.tcgplayer.com/product/498028_200w.jpg,74,23212,https://cpt.tcgcsv.com/Bd_5,2023-08-25T04:03:10.707,1,Common,045,On Enter: Banish up to two target cards from a single graveyard.,Ally,Animal;Raccoon,Norm,Tamer,2,1.38,3.0,4.99,1.58,,Foil,,,<em>Looters have conditioned these diligent creatures to scavenge the battlefield for any source of glint or glitter in exchange for a treat.</em>,,1,1,
+498029,Red Slime,Red Slime,https://tcgplayer-cdn.tcgplayer.com/product/498029_200w.jpg,74,23212,https://cpt.tcgcsv.com/Cd_5,2023-08-25T04:03:10.707,1,Uncommon,056,"Pride 3 (This ally won't obey you unless your champion is level 3 or higher.)
+<br>
+[Class Bonus] On Death: Deal damage to all allies equal to Red Slime's power. (Apply this effect only if your champion's class matches this card's class.)",Ally,Beast;Slime,Fire,Tamer,3,0.05,0.17,1.32,0.11,,Normal,,,,,2,3,
+498029,Red Slime,Red Slime,https://tcgplayer-cdn.tcgplayer.com/product/498029_200w.jpg,74,23212,https://cpt.tcgcsv.com/Cd_5,2023-08-25T04:03:10.707,1,Uncommon,056,"Pride 3 (This ally won't obey you unless your champion is level 3 or higher.)
+<br>
+[Class Bonus] On Death: Deal damage to all allies equal to Red Slime's power. (Apply this effect only if your champion's class matches this card's class.)",Ally,Beast;Slime,Fire,Tamer,3,1.95,5.99,15.0,2.4,,Foil,,,,,2,3,
+498030,Riptide Slash,Riptide Slash,https://tcgplayer-cdn.tcgplayer.com/product/498030_200w.jpg,74,23212,https://cpt.tcgcsv.com/Dd_5,2023-08-25T04:03:10.707,1,Common,069,"[Class Bonus] On Attack: Glimpse 2. (To glimpse, look at that many cards from the top of your deck. Put those cards back on the top or on the bottom of your deck in any order.)
+<br>
+On Kill: You may put the top card of your deck into your graveyard.",Attack,Sword,Water,Warrior,2,0.1,0.38,3.99,0.19,,Foil,,,,,,2,
+498030,Riptide Slash,Riptide Slash,https://tcgplayer-cdn.tcgplayer.com/product/498030_200w.jpg,74,23212,https://cpt.tcgcsv.com/Dd_5,2023-08-25T04:03:10.707,1,Common,069,"[Class Bonus] On Attack: Glimpse 2. (To glimpse, look at that many cards from the top of your deck. Put those cards back on the top or on the bottom of your deck in any order.)
+<br>
+On Kill: You may put the top card of your deck into your graveyard.",Attack,Sword,Water,Warrior,2,0.03,0.17,1.3,0.07,,Normal,,,,,,2,
+498031,Song of Frost,Song of Frost,https://tcgplayer-cdn.tcgplayer.com/product/498031_200w.jpg,74,23212,https://cpt.tcgcsv.com/Fd_5,2023-08-25T04:03:10.707,1,Common,070,"[Class Bonus] You may banish a card with floating memory from your graveyard rather than pay this card's reserve cost.
+<br>
+If a unit is attacking, end the combat phase. (As a phase ends, banish all triggers, activations, and materializations on the effects stack.)",Action,Melody;Skill,Water,Tamer,2,1.41,1.5,9.99,1.94,,Foil,,Fast,,,,,
+498031,Song of Frost,Song of Frost,https://tcgplayer-cdn.tcgplayer.com/product/498031_200w.jpg,74,23212,https://cpt.tcgcsv.com/Fd_5,2023-08-25T04:03:10.707,1,Common,070,"[Class Bonus] You may banish a card with floating memory from your graveyard rather than pay this card's reserve cost.
+<br>
+If a unit is attacking, end the combat phase. (As a phase ends, banish all triggers, activations, and materializations on the effects stack.)",Action,Melody;Skill,Water,Tamer,2,0.04,0.2,9.0,0.14,,Normal,,Fast,,,,,
+498032,Tithe Proclamation,Tithe Proclamation,https://tcgplayer-cdn.tcgplayer.com/product/498032_200w.jpg,74,23212,https://cpt.tcgcsv.com/Gd_5,2023-08-25T04:03:10.707,1,Common,009,"On Enter: Draw a card.
+<br>
+Players can't draw more than three cards each turn unless it's their first turn of the game.",Item;Regalia,Scripture,Norm,Cleric,,0.4,0.87,5.0,0.65,,Foil,1,,<em>Wealth can only be amassed up to a certain point before the Church of Aesa takes an interest.</em>,,,,
+498032,Tithe Proclamation,Tithe Proclamation,https://tcgplayer-cdn.tcgplayer.com/product/498032_200w.jpg,74,23212,https://cpt.tcgcsv.com/Gd_5,2023-08-25T04:03:10.707,1,Common,009,"On Enter: Draw a card.
+<br>
+Players can't draw more than three cards each turn unless it's their first turn of the game.",Item;Regalia,Scripture,Norm,Cleric,,0.05,0.2,1.32,0.11,,Normal,1,,<em>Wealth can only be amassed up to a certain point before the Church of Aesa takes an interest.</em>,,,,
+498033,Varuckan Acolyte,Varuckan Acolyte,https://tcgplayer-cdn.tcgplayer.com/product/498033_200w.jpg,74,23212,https://cpt.tcgcsv.com/Hd_5,2023-08-25T04:03:10.707,1,Uncommon,057,"On Enter: Destroy target regalia with memory cost 0.
+<br>
+[Level 3+] Varuckan Acolyte gets +3 Power.",Ally,Human,Fire,Mage,3,0.05,0.2,1.99,0.17,,Normal,,,<em>Some of the cabalistic rituals practiced among the mad cultists require material sacrifice.</em>,,1,0,
+498033,Varuckan Acolyte,Varuckan Acolyte,https://tcgplayer-cdn.tcgplayer.com/product/498033_200w.jpg,74,23212,https://cpt.tcgcsv.com/Hd_5,2023-08-25T04:03:10.707,1,Uncommon,057,"On Enter: Destroy target regalia with memory cost 0.
+<br>
+[Level 3+] Varuckan Acolyte gets +3 Power.",Ally,Human,Fire,Mage,3,0.79,0.95,2.99,0.86,,Foil,,,<em>Some of the cabalistic rituals practiced among the mad cultists require material sacrifice.</em>,,1,0,
+498034,Varuckan Soulknife,Varuckan Soulknife,https://tcgplayer-cdn.tcgplayer.com/product/498034_200w.jpg,74,23212,https://cpt.tcgcsv.com/Jd_5,2023-08-25T04:03:10.707,1,Super Rare,014,"[Class Bonus] [Element Bonus] You may banish three fire element cards from your graveyard to activate this card from your material deck.
+<br>
+[Class Bonus] On Kill: Return Varuckan Soulknife to your material deck.",Weapon;Regalia,Dagger,Fire,Assassin,,0.25,0.4,4.99,0.33,,Normal,0,,,,,1,1
+498034,Varuckan Soulknife,Varuckan Soulknife,https://tcgplayer-cdn.tcgplayer.com/product/498034_200w.jpg,74,23212,https://cpt.tcgcsv.com/Jd_5,2023-08-25T04:03:10.707,1,Super Rare,014,"[Class Bonus] [Element Bonus] You may banish three fire element cards from your graveyard to activate this card from your material deck.
+<br>
+[Class Bonus] On Kill: Return Varuckan Soulknife to your material deck.",Weapon;Regalia,Dagger,Fire,Assassin,,9.99,14.5,39.99,5.47,,Foil,0,,,,,1,1
+498035,"Ventus, Staff of Zephyrs",Ventus Staff of Zephyrs,https://tcgplayer-cdn.tcgplayer.com/product/498035_200w.jpg,74,23212,https://cpt.tcgcsv.com/Kd_5,2023-08-25T04:03:10.707,1,Super Rare,020,"Whenever you activate a wind Mage Spell, put a refinement counter on Ventus.
+<br>
+REST, Remove a refinement counter from Ventus: Put an enlighten counter on your champion.
+<br>
+REST, Remove three refinement counters from Ventus: Suppress target ally.",Item;Regalia,Staff,Wind,Mage,,0.25,0.54,4.49,0.5,,Normal,0,,,,,,
+498035,"Ventus, Staff of Zephyrs",Ventus Staff of Zephyrs,https://tcgplayer-cdn.tcgplayer.com/product/498035_200w.jpg,74,23212,https://cpt.tcgcsv.com/Kd_5,2023-08-25T04:03:10.707,1,Super Rare,020,"Whenever you activate a wind Mage Spell, put a refinement counter on Ventus.
+<br>
+REST, Remove a refinement counter from Ventus: Put an enlighten counter on your champion.
+<br>
+REST, Remove three refinement counters from Ventus: Suppress target ally.",Item;Regalia,Staff,Wind,Mage,,8.0,12.0,79.99,15.49,,Foil,0,,,,,,
+498036,Wand of Frost,Wand of Frost,https://tcgplayer-cdn.tcgplayer.com/product/498036_200w.jpg,74,23212,https://cpt.tcgcsv.com/Ld_5,2023-08-25T04:03:10.707,1,Rare,017,"[Class Bonus] On Enter: Draw a card.
+<br>
+Banish Wand of Frost: Target unit's attacks get -3 Power until end of turn.",Item;Regalia,Wand,Water,Cleric;Mage,,0.05,0.23,2.5,0.14,,Normal,1,,"<em>Wielded by the apostles of the Lumina Sanctuary, this wand chills even the most heated of threats.</em>",,,,
+498036,Wand of Frost,Wand of Frost,https://tcgplayer-cdn.tcgplayer.com/product/498036_200w.jpg,74,23212,https://cpt.tcgcsv.com/Ld_5,2023-08-25T04:03:10.707,1,Rare,017,"[Class Bonus] On Enter: Draw a card.
+<br>
+Banish Wand of Frost: Target unit's attacks get -3 Power until end of turn.",Item;Regalia,Wand,Water,Cleric;Mage,,0.99,1.47,3.99,1.66,,Foil,1,,"<em>Wielded by the apostles of the Lumina Sanctuary, this wand chills even the most heated of threats.</em>",,,,
+498037,"Merlin, Kingslayer (B) (CSR)",Merlin Kingslayer B CSR,https://tcgplayer-cdn.tcgplayer.com/product/498037_200w.jpg,74,23212,https://cpt.tcgcsv.com/Md_5,2023-08-25T04:03:10.707,1,Collector Super Rare,004B,"Merlin Lineage
+<br>
+At the beginning of your recollection phase, put a level counter on Merlin. Then, if there's an even amount of level counters on Merlin, draw a card and Merlin's attacks get +2 Power until end of turn.",Champion,Human,Crux,Warrior;Mage,,899.98,999.99,1199.99,800.0,,Foil,3,,,3,28,,
+500828,Fractured Crown Booster Pack,Fractured Crown Booster Pack,https://tcgplayer-cdn.tcgplayer.com/product/500828_200w.jpg,74,23212,https://cpt.tcgcsv.com/Bl06,2023-08-25T04:03:10.707,1,,,,,,,,,3.49,4.25,5.08,5.08,,Normal,,,,,,,
+500829,Fractured Crown Booster Box,Fractured Crown Booster Box,https://tcgplayer-cdn.tcgplayer.com/product/500829_200w.jpg,74,23212,https://cpt.tcgcsv.com/Cl06,2023-08-25T04:03:10.707,1,,,,,,,,,80.85,105.75,122.99,77.51,,Normal,,,,,,,
+512621,Fractured Crown - Booster Box Case,Fractured Crown Booster Box Case,https://tcgplayer-cdn.tcgplayer.com/product/512621_200w.jpg,74,23212,https://cpt.tcgcsv.com/r376,2023-08-25T04:03:10.707,1,,,,,,,,,,,,,,,,,,,,,
+512632,"Uther, Illustrious King",Uther Illustrious King,https://tcgplayer-cdn.tcgplayer.com/product/512632_200w.jpg,74,23212,https://cpt.tcgcsv.com/G376,2023-08-25T04:03:10.707,1,Super Rare,088,"Intercept, Vigor<br>
+On Enter: You may rest Uther. When you do, banish another target non-champion object.<br>
+On Leave: Return the banished object to the field under its owner's control rested.",Ally;Unique,Human;Warrior,Luxem,Warrior,4,3.99,4.96,9.99,3.99,,Foil,,,,,4,4,4
+512632,"Uther, Illustrious King",Uther Illustrious King,https://tcgplayer-cdn.tcgplayer.com/product/512632_200w.jpg,74,23212,https://cpt.tcgcsv.com/G376,2023-08-25T04:03:10.707,1,Super Rare,088,"Intercept, Vigor<br>
+On Enter: You may rest Uther. When you do, banish another target non-champion object.<br>
+On Leave: Return the banished object to the field under its owner's control rested.",Ally;Unique,Human;Warrior,Luxem,Warrior,4,0.19,0.7,5.0,0.33,,Normal,,,,,4,4,4
+512633,Avatar of Gaia,Avatar of Gaia,https://tcgplayer-cdn.tcgplayer.com/product/512633_200w.jpg,74,23212,https://cpt.tcgcsv.com/H376,2023-08-25T04:03:10.707,1,Rare,089,"<strong>Ally Link</strong> <em>(This object enters the field linked to target ally. If the link is broken, sacrifice this object.)</em>
+<br>[Class Bonus] <strong>Preserve</strong>
+<br>Linked ally has <strong>taunt</strong> and loses <strong>pride</strong>.",Ally;Unique,Tamer;Avatar,Tera,Tamer,1,0.49,1.24,8.63,1.05,,Foil,,,<em>Even the king of beasts rallied to Gaia's presence.</em>,,2,0,
+512633,Avatar of Gaia,Avatar of Gaia,https://tcgplayer-cdn.tcgplayer.com/product/512633_200w.jpg,74,23212,https://cpt.tcgcsv.com/H376,2023-08-25T04:03:10.707,1,Rare,089,"<strong>Ally Link</strong> <em>(This object enters the field linked to target ally. If the link is broken, sacrifice this object.)</em>
+<br>[Class Bonus] <strong>Preserve</strong>
+<br>Linked ally has <strong>taunt</strong> and loses <strong>pride</strong>.",Ally;Unique,Tamer;Avatar,Tera,Tamer,1,0.14,0.24,4.99,0.24,,Normal,,,<em>Even the king of beasts rallied to Gaia's presence.</em>,,2,0,
+512643,Spirit of Serene Fire,Spirit of Serene Fire,https://tcgplayer-cdn.tcgplayer.com/product/512643_200w.jpg,74,23212,https://cpt.tcgcsv.com/T376,2023-08-25T04:03:10.707,1,Ultra Rare,001,"On Enter: Glimpse 6. Draw six cards. 
+<br>
+Lineage Release — Recover 6. <em>(Activate this ability by banishing this card from your champion's inner lineage.)</em>",Champion,Spirit,Fire,Spirit,,39.99,69.99,71.99,47.12,,Foil,0,,<em>Searing insight found within all-consuming flame.</em>,0,15,,
+512643,Spirit of Serene Fire,Spirit of Serene Fire,https://tcgplayer-cdn.tcgplayer.com/product/512643_200w.jpg,74,23212,https://cpt.tcgcsv.com/T376,2023-08-25T04:03:10.707,1,Ultra Rare,001,"On Enter: Glimpse 6. Draw six cards. 
+<br>
+Lineage Release — Recover 6. <em>(Activate this ability by banishing this card from your champion's inner lineage.)</em>",Champion,Spirit,Fire,Spirit,,18.73,19.99,34.99,24.39,,Normal,0,,<em>Searing insight found within all-consuming flame.</em>,0,15,,
+512646,Spirit of Serene Water,Spirit of Serene Water,https://tcgplayer-cdn.tcgplayer.com/product/512646_200w.jpg,74,23212,https://cpt.tcgcsv.com/X376,2023-08-25T04:03:10.707,1,Ultra Rare,002,"On Enter: Glimpse 6. Draw six cards. 
+<br>
+Lineage Release — Recover 6. <em>(Activate this ability by banishing this card from your champion's inner lineage.)</em>",Champion,Spirit,Water,Spirit,,8.63,10.0,20.0,8.93,,Normal,0,,<em>Overflowing visions immersed within the waves.</em>,0,15,,
+512646,Spirit of Serene Water,Spirit of Serene Water,https://tcgplayer-cdn.tcgplayer.com/product/512646_200w.jpg,74,23212,https://cpt.tcgcsv.com/X376,2023-08-25T04:03:10.707,1,Ultra Rare,002,"On Enter: Glimpse 6. Draw six cards. 
+<br>
+Lineage Release — Recover 6. <em>(Activate this ability by banishing this card from your champion's inner lineage.)</em>",Champion,Spirit,Water,Spirit,,48.0,49.0,51.9,42.9,,Foil,0,,<em>Overflowing visions immersed within the waves.</em>,0,15,,
+512651,Spirit of Serene Wind,Spirit of Serene Wind,https://tcgplayer-cdn.tcgplayer.com/product/512651_200w.jpg,74,23212,https://cpt.tcgcsv.com/2576,2023-08-25T04:03:10.707,1,Ultra Rare,003,"On Enter: Glimpse 6. Draw six cards. 
+<br>
+Lineage Release — Recover 6. <em>(Activate this ability by banishing this card from your champion's inner lineage.)</em>",Champion,Spirit,Wind,Spirit,,51.46,55.97,69.99,44.99,,Foil,0,,<em>Cunning intuition trapped within the vortex's eye.</em>,0,15,,
+512651,Spirit of Serene Wind,Spirit of Serene Wind,https://tcgplayer-cdn.tcgplayer.com/product/512651_200w.jpg,74,23212,https://cpt.tcgcsv.com/2576,2023-08-25T04:03:10.707,1,Ultra Rare,003,"On Enter: Glimpse 6. Draw six cards. 
+<br>
+Lineage Release — Recover 6. <em>(Activate this ability by banishing this card from your champion's inner lineage.)</em>",Champion,Spirit,Wind,Spirit,,14.94,14.97,14.99,12.6,,Normal,0,,<em>Cunning intuition trapped within the vortex's eye.</em>,0,15,,
+512657,Azure Protective Trinket,Azure Protective Trinket,https://tcgplayer-cdn.tcgplayer.com/product/512657_200w.jpg,74,23212,https://cpt.tcgcsv.com/9576,2023-08-25T04:03:10.707,1,Uncommon,005,Banish Azure Protective Trinket: Banish up to three target fire element cards from a single graveyard.,Item;Regalia,Accessory;Cleric,Norm,Cleric,,0.19,1.0,2.0,0.26,,Foil,0,,<em>An enchanted pendant that provides soothing relief from the scorching summer heat.</em>,,,,
+512657,Azure Protective Trinket,Azure Protective Trinket,https://tcgplayer-cdn.tcgplayer.com/product/512657_200w.jpg,74,23212,https://cpt.tcgcsv.com/9576,2023-08-25T04:03:10.707,1,Uncommon,005,Banish Azure Protective Trinket: Banish up to three target fire element cards from a single graveyard.,Item;Regalia,Accessory;Cleric,Norm,Cleric,,0.05,0.15,1.99,0.14,,Normal,0,,<em>An enchanted pendant that provides soothing relief from the scorching summer heat.</em>,,,,
+512659,Crimson Protective Trinket,Crimson Protective Trinket,https://tcgplayer-cdn.tcgplayer.com/product/512659_200w.jpg,74,23212,https://cpt.tcgcsv.com/c576,2023-08-25T04:03:10.707,1,Uncommon,006,Banish Crimson Protective Trinket: Target opponent reveals two cards at random from their memory. Banish each wind element card revealed this way.,Item;Regalia,Accessory;Cleric,Norm,Cleric,,0.79,1.25,5.0,1.24,,Foil,1,,<em>A magical armlet that channels and disperses galestorm winds into a pleasant puff of air.</em>,,,,
+512659,Crimson Protective Trinket,Crimson Protective Trinket,https://tcgplayer-cdn.tcgplayer.com/product/512659_200w.jpg,74,23212,https://cpt.tcgcsv.com/c576,2023-08-25T04:03:10.707,1,Uncommon,006,Banish Crimson Protective Trinket: Target opponent reveals two cards at random from their memory. Banish each wind element card revealed this way.,Item;Regalia,Accessory;Cleric,Norm,Cleric,,0.04,0.15,1.31,0.13,,Normal,1,,<em>A magical armlet that channels and disperses galestorm winds into a pleasant puff of air.</em>,,,,
+512660,Quicksilver Grail (007),Quicksilver Grail 007,https://tcgplayer-cdn.tcgplayer.com/product/512660_200w.jpg,74,23212,https://cpt.tcgcsv.com/d576,2023-08-25T04:03:10.707,1,Ultra Rare,007,"Divine Relic <em>(You can only have one card with this keyword in your material deck.)</em>
+<br>
+On Enter: Banish a non-champion card from your material deck face down.
+<br>
+Banish Quicksilver Grail: You may play the banished card. <em>(You still pay for its costs.)</em>",Item;Regalia,Artifact;Cleric,Norm,Cleric,,149.0,149.21,149.99,73.31,,Normal,0,,,,,,
+512661,Tariff Ring,Tariff Ring,https://tcgplayer-cdn.tcgplayer.com/product/512661_200w.jpg,74,23212,https://cpt.tcgcsv.com/f576,2023-08-25T20:43:48.337,1,Common,008,"Banish Tariff Ring: Until end of turn, players can't declare attacks unless they pay (2) for each attack declaration. Activate this ability only during an opponent's recollection phase.",Item;Regalia,Accessory;Guardian,Norm,Guardian,,0.04,0.2,1.35,0.2,,Normal,0,,"<em>If profits are to be made, bring enough to share.</em>",,,,
+512661,Tariff Ring,Tariff Ring,https://tcgplayer-cdn.tcgplayer.com/product/512661_200w.jpg,74,23212,https://cpt.tcgcsv.com/f576,2023-08-25T20:43:48.337,1,Common,008,"Banish Tariff Ring: Until end of turn, players can't declare attacks unless they pay (2) for each attack declaration. Activate this ability only during an opponent's recollection phase.",Item;Regalia,Accessory;Guardian,Norm,Guardian,,0.99,1.99,5.0,1.08,,Foil,0,,"<em>If profits are to be made, bring enough to share.</em>",,,,
+512662,Viridian Protective Trinket,Viridian Protective Trinket,https://tcgplayer-cdn.tcgplayer.com/product/512662_200w.jpg,74,23212,https://cpt.tcgcsv.com/g576,2024-03-18T16:35:44.073,1,Uncommon,010,"During your turn, water element cards your opponents activate cost 2 more to activate.",Item;Regalia,Accessory;Cleric,Norm,Cleric,,0.05,0.2,1.0,0.19,,Normal,0,,<em>A charmed ring that funnels and tapers torrential downpours into a revitalizing mist.</em>,,,,
+512662,Viridian Protective Trinket,Viridian Protective Trinket,https://tcgplayer-cdn.tcgplayer.com/product/512662_200w.jpg,74,23212,https://cpt.tcgcsv.com/g576,2024-03-18T16:35:44.073,1,Uncommon,010,"During your turn, water element cards your opponents activate cost 2 more to activate.",Item;Regalia,Accessory;Cleric,Norm,Cleric,,0.7,0.92,4.99,0.92,,Foil,0,,<em>A charmed ring that funnels and tapers torrential downpours into a revitalizing mist.</em>,,,,
+512668,Beastsoul Visage,Beastsoul Visage,https://tcgplayer-cdn.tcgplayer.com/product/512668_200w.jpg,74,23212,https://cpt.tcgcsv.com/n576,2023-08-25T04:03:10.707,1,Rare,011,"Ally Link <em>(This object enters the field linked to target ally. If the link is broken, sacrifice this object.)</em>
+<br>
+Linked ally gets +2power?, has pride 3, and is a Beast in addition to its other types.",Item;Regalia,Accessory;Tamer,Fire,Tamer,,0.43,1.77,7.95,0.45,,Foil,0,,<em>Even a small mutt can be made to look like a ferocious beast.</em>,,,,
+512668,Beastsoul Visage,Beastsoul Visage,https://tcgplayer-cdn.tcgplayer.com/product/512668_200w.jpg,74,23212,https://cpt.tcgcsv.com/n576,2023-08-25T04:03:10.707,1,Rare,011,"Ally Link <em>(This object enters the field linked to target ally. If the link is broken, sacrifice this object.)</em>
+<br>
+Linked ally gets +2power?, has pride 3, and is a Beast in addition to its other types.",Item;Regalia,Accessory;Tamer,Fire,Tamer,,0.05,0.23,2.0,0.18,,Normal,0,,<em>Even a small mutt can be made to look like a ferocious beast.</em>,,,,
+512669,Explosive Rune,Explosive Rune,https://tcgplayer-cdn.tcgplayer.com/product/512669_200w.jpg,74,23212,https://cpt.tcgcsv.com/p576,2023-08-25T04:03:10.707,1,Rare,012,"Banish Explosive Rune: Deal 1 damage to target ally. Class Bonus: If that ally is attacking, deal 2 damage to it instead.",Item;Regalia,Artifact;Mage,Fire,Mage,,0.05,0.2,3.99,0.11,,Normal,0,,<em>The labrynthine catacombs of Varuck are littered with both inventions and victims of mad wizards.</em>,,,,
+512669,Explosive Rune,Explosive Rune,https://tcgplayer-cdn.tcgplayer.com/product/512669_200w.jpg,74,23212,https://cpt.tcgcsv.com/p576,2023-08-25T04:03:10.707,1,Rare,012,"Banish Explosive Rune: Deal 1 damage to target ally. Class Bonus: If that ally is attacking, deal 2 damage to it instead.",Item;Regalia,Artifact;Mage,Fire,Mage,,0.1,0.35,19.99,0.24,,Foil,0,,<em>The labrynthine catacombs of Varuck are littered with both inventions and victims of mad wizards.</em>,,,,
+512670,Firetongue,Firetongue,https://tcgplayer-cdn.tcgplayer.com/product/512670_200w.jpg,74,23212,https://cpt.tcgcsv.com/q576,2023-08-25T04:03:10.707,1,Rare,013,"[Class Bonus] On Attack: You may banish a fire element card from your graveyard. If you do, put a durability counter on Firetongue.",Weapon;Regalia,Sword;Warrior,Fire,Warrior,,0.07,0.25,1.64,0.17,,Normal,1,,<em>A serrated blade forged from a dragon's fang. Only dragonsbreath can maintain its edge.</em>,,,2,1
+512670,Firetongue,Firetongue,https://tcgplayer-cdn.tcgplayer.com/product/512670_200w.jpg,74,23212,https://cpt.tcgcsv.com/q576,2023-08-25T04:03:10.707,1,Rare,013,"[Class Bonus] On Attack: You may banish a fire element card from your graveyard. If you do, put a durability counter on Firetongue.",Weapon;Regalia,Sword;Warrior,Fire,Warrior,,0.59,0.87,2.99,0.78,,Foil,1,,<em>A serrated blade forged from a dragon's fang. Only dragonsbreath can maintain its edge.</em>,,,2,1
+512671,"Arondight, Azure Blade",Arondight Azure Blade,https://tcgplayer-cdn.tcgplayer.com/product/512671_200w.jpg,74,23212,https://cpt.tcgcsv.com/r576,2023-08-25T04:03:10.707,1,Super Rare,015,"[Class Bonus] On Enter: You may banish any amount of cards with floating memory from your graveyard. For each card banished this way, put a refinement counter on Arondight. 
+<br>
+Arondight gets +2 power for each refinement counter on it.",Weapon;Regalia,Sword;Warrior,Water,Warrior,,0.25,0.86,5.0,0.4,,Normal,1,,,,,1,2
+512671,"Arondight, Azure Blade",Arondight Azure Blade,https://tcgplayer-cdn.tcgplayer.com/product/512671_200w.jpg,74,23212,https://cpt.tcgcsv.com/r576,2023-08-25T04:03:10.707,1,Super Rare,015,"[Class Bonus] On Enter: You may banish any amount of cards with floating memory from your graveyard. For each card banished this way, put a refinement counter on Arondight. 
+<br>
+Arondight gets +2 power for each refinement counter on it.",Weapon;Regalia,Sword;Warrior,Water,Warrior,,22.01,23.32,25.35,10.21,,Foil,1,,,,,1,2
+512672,Cloak of Stillwater,Cloak of Stillwater,https://tcgplayer-cdn.tcgplayer.com/product/512672_200w.jpg,74,23212,https://cpt.tcgcsv.com/s576,2023-08-25T04:03:10.707,1,Rare,016,"[Class Bonus] On Enter: Draw a card. 
+<br>
+REST, Banish a card with floating memory from your graveyard: Prevent the next 3 damage that would be dealt to your champion this turn.",Item;Regalia,Accessory;Assassin,Water,Assassin,,0.02,0.23,3.99,0.19,,Normal,1,,<em>Weaved with the illusory gossamer of Stillwater.</em>,,,,
+512672,Cloak of Stillwater,Cloak of Stillwater,https://tcgplayer-cdn.tcgplayer.com/product/512672_200w.jpg,74,23212,https://cpt.tcgcsv.com/s576,2023-08-25T04:03:10.707,1,Rare,016,"[Class Bonus] On Enter: Draw a card. 
+<br>
+REST, Banish a card with floating memory from your graveyard: Prevent the next 3 damage that would be dealt to your champion this turn.",Item;Regalia,Accessory;Assassin,Water,Assassin,,0.35,1.04,19.99,0.37,,Foil,1,,<em>Weaved with the illusory gossamer of Stillwater.</em>,,,,
+512674,Wildheart Lyre,Wildheart Lyre,https://tcgplayer-cdn.tcgplayer.com/product/512674_200w.jpg,74,23212,https://cpt.tcgcsv.com/v576,2023-08-25T04:03:10.707,1,Rare,018,"Reservable <em>(While paying for a reserve cost, you may rest this object to pay for 1 of that cost.)</em>
+<br>
+[Class Bonus] Whenever you rest Wildheart Lyre to pay for the reserve cost of a Harmony or Melody activation, put a buff counter on an Animal or Beast ally you control.",Item;Regalia,Instrument;Tamer,Water,Tamer,,0.29,0.88,25.99,0.41,,Foil,1,,,,,,
+512674,Wildheart Lyre,Wildheart Lyre,https://tcgplayer-cdn.tcgplayer.com/product/512674_200w.jpg,74,23212,https://cpt.tcgcsv.com/v576,2023-08-25T04:03:10.707,1,Rare,018,"Reservable <em>(While paying for a reserve cost, you may rest this object to pay for 1 of that cost.)</em>
+<br>
+[Class Bonus] Whenever you rest Wildheart Lyre to pay for the reserve cost of a Harmony or Melody activation, put a buff counter on an Animal or Beast ally you control.",Item;Regalia,Instrument;Tamer,Water,Tamer,,0.05,0.2,1.99,0.17,,Normal,1,,,,,,
+512678,Windwalker Boots,Windwalker Boots,https://tcgplayer-cdn.tcgplayer.com/product/512678_200w.jpg,74,23212,https://cpt.tcgcsv.com/B576,2023-08-25T04:03:10.707,1,Rare,021,"[Class Bonus] At the beginning of your end phase, if your champion is awake, put a preparation counter on them.
+<br>
+Banish Windwalker Boots: Draw a card. Activate this ability only if your champion has five or more preparation counters on them.",Item;Regalia,Accessory;Assassin,Wind,Assassin,,0.08,0.25,2.24,0.27,,Normal,0,,,,,,
+512678,Windwalker Boots,Windwalker Boots,https://tcgplayer-cdn.tcgplayer.com/product/512678_200w.jpg,74,23212,https://cpt.tcgcsv.com/B576,2023-08-25T04:03:10.707,1,Rare,021,"[Class Bonus] At the beginning of your end phase, if your champion is awake, put a preparation counter on them.
+<br>
+Banish Windwalker Boots: Draw a card. Activate this ability only if your champion has five or more preparation counters on them.",Item;Regalia,Accessory;Assassin,Wind,Assassin,,3.99,4.39,4.99,2.6,,Foil,0,,,,,,
+512681,Zephyr's Edge,Zephyrs Edge,https://tcgplayer-cdn.tcgplayer.com/product/512681_200w.jpg,74,23212,https://cpt.tcgcsv.com/F576,2023-08-25T04:03:10.707,1,Rare,022,"[Class Bonus] On Enter: If it's not your materialize phase, Zephyr's Edge gets +1 Power until end of turn.",Weapon;Regalia,Sword;Warrior,Wind,Warrior,,0.05,0.2,1.99,0.14,,Normal,0,,"<em>Lighter than the breeze, swifter than the wind.</em>",,,1,2
+512681,Zephyr's Edge,Zephyrs Edge,https://tcgplayer-cdn.tcgplayer.com/product/512681_200w.jpg,74,23212,https://cpt.tcgcsv.com/F576,2023-08-25T04:03:10.707,1,Rare,022,"[Class Bonus] On Enter: If it's not your materialize phase, Zephyr's Edge gets +1 Power until end of turn.",Weapon;Regalia,Sword;Warrior,Wind,Warrior,,0.25,1.0,29.97,0.69,,Foil,0,,"<em>Lighter than the breeze, swifter than the wind.</em>",,,1,2
+512683,The Majestic Spirit,The Majestic Spirit,https://tcgplayer-cdn.tcgplayer.com/product/512683_200w.jpg,74,23212,https://cpt.tcgcsv.com/H576,2023-08-25T04:03:10.707,1,Ultra Rare,023,"Intercept, True Sight, Vigor
+<br>
+Champions you control have spellshroud.
+<br>
+If another crux element unit you control would take damage, prevent half of that damage, rounded up.",Ally;Regalia,Beast;Mage,Crux,Mage,,14.99,17.97,29.98,15.49,,Foil,12,,,,10,4,
+512683,The Majestic Spirit,The Majestic Spirit,https://tcgplayer-cdn.tcgplayer.com/product/512683_200w.jpg,74,23212,https://cpt.tcgcsv.com/H576,2023-08-25T04:03:10.707,1,Ultra Rare,023,"Intercept, True Sight, Vigor
+<br>
+Champions you control have spellshroud.
+<br>
+If another crux element unit you control would take damage, prevent half of that damage, rounded up.",Ally;Regalia,Beast;Mage,Crux,Mage,,2.86,4.0,29.99,3.62,,Normal,12,,,,10,4,
+512685,The Majestic Spirit (CSR),The Majestic Spirit CSR,https://tcgplayer-cdn.tcgplayer.com/product/512685_200w.jpg,74,23212,https://cpt.tcgcsv.com/K576,2023-08-25T04:03:10.707,1,Collector Super Rare,023,"Intercept, True Sight, Vigor
+<br>
+Champions you control have spellshroud.
+<br>
+If another crux element unit you control would take damage, prevent half of that damage, rounded up.",Ally;Regalia,Beast;Mage,Crux,Mage,,198.01,224.99,495.0,184.5,,Foil,12,,,,10,4,
+512688,Fractured Crown,Fractured Crown,https://tcgplayer-cdn.tcgplayer.com/product/512688_200w.jpg,74,23212,https://cpt.tcgcsv.com/N576,2023-08-25T04:03:10.707,1,Ultra Rare,024,"Champion Link <em>(This object enters the field linked to target champion. If the link is broken, sacrifice this object.)</em>
+<br>
+Linked champion's first attack each turn gets +2 power. Class Bonus: That champion also gets +2 life for each unique ally card in your graveyard.",Item;Regalia,Artifact;Warrior,Luxem,Warrior,,0.9,1.24,5.0,1.14,,Normal,0,,,,,,
+512688,Fractured Crown,Fractured Crown,https://tcgplayer-cdn.tcgplayer.com/product/512688_200w.jpg,74,23212,https://cpt.tcgcsv.com/N576,2023-08-25T04:03:10.707,1,Ultra Rare,024,"Champion Link <em>(This object enters the field linked to target champion. If the link is broken, sacrifice this object.)</em>
+<br>
+Linked champion's first attack each turn gets +2 power. Class Bonus: That champion also gets +2 life for each unique ally card in your graveyard.",Item;Regalia,Artifact;Warrior,Luxem,Warrior,,10.98,10.99,18.99,10.0,,Foil,0,,,,,,
+512689,Assassin's Ripper,Assassins Ripper,https://tcgplayer-cdn.tcgplayer.com/product/512689_200w.jpg,74,23212,https://cpt.tcgcsv.com/P576,2023-08-25T04:03:10.707,1,Super Rare,001,"[Class Bonus] REST, Remove a preparation counter from your champion: <br>Assassin's Ripper gets +2 power until end of turn.",Weapon;Regalia,Assassin;Dagger,Norm,Assassin,,22.99,30.82,38.64,14.71,,Foil,1,,"<em>As menacing as it is sharp, this dagger is most useful in the hands of an assassin.</em>",,,1,2
+512691,Covenant of Thorns,Covenant of Thorns,https://tcgplayer-cdn.tcgplayer.com/product/512691_200w.jpg,74,23212,https://cpt.tcgcsv.com/R576,2023-08-25T04:03:10.707,1,Rare,025,"[Class Bonus] This card costs 1 less to materialize.
+<br>
+Ally Link <em>(This object enters the field linked to target ally. If the link is broken, sacrifice this object.)</em>
+<br>
+If damage would be dealt to your champion, that damage is dealt to linked ally instead.""",Item;Regalia,Accessory;Tamer,Tera,Tamer,,1.99,2.64,7.99,3.54,,Foil,1,,,,,,
+512691,Covenant of Thorns,Covenant of Thorns,https://tcgplayer-cdn.tcgplayer.com/product/512691_200w.jpg,74,23212,https://cpt.tcgcsv.com/R576,2023-08-25T04:03:10.707,1,Rare,025,"[Class Bonus] This card costs 1 less to materialize.
+<br>
+Ally Link <em>(This object enters the field linked to target ally. If the link is broken, sacrifice this object.)</em>
+<br>
+If damage would be dealt to your champion, that damage is dealt to linked ally instead.""",Item;Regalia,Accessory;Tamer,Tera,Tamer,,0.1,0.25,2.0,0.22,,Normal,1,,,,,,
+512694,"Bedivere, Woodland Overseer",Bedivere Woodland Overseer,https://tcgplayer-cdn.tcgplayer.com/product/512694_200w.jpg,74,23212,https://cpt.tcgcsv.com/V576,2023-08-25T04:03:10.707,1,Super Rare,026,"Bedivere has taunt as long as you control another Animal or Beast ally.
+<br>
+[Class Bonus] [Level 3+] On Death: Put a buff counter on each Animal and/or Beast ally you control.",Ally;Unique,Animal;Human;Tamer,Norm,Tamer,3,8.99,13.45,63.99,13.45,,Foil,,,,,4,1,
+512694,"Bedivere, Woodland Overseer",Bedivere Woodland Overseer,https://tcgplayer-cdn.tcgplayer.com/product/512694_200w.jpg,74,23212,https://cpt.tcgcsv.com/V576,2023-08-25T04:03:10.707,1,Super Rare,026,"Bedivere has taunt as long as you control another Animal or Beast ally.
+<br>
+[Class Bonus] [Level 3+] On Death: Put a buff counter on each Animal and/or Beast ally you control.",Ally;Unique,Animal;Human;Tamer,Norm,Tamer,3,2.78,4.0,14.51,3.32,,Normal,,,,,4,1,
+512696,"Bedivere, Woodland Overseer (CSR)",Bedivere Woodland Overseer CSR,https://tcgplayer-cdn.tcgplayer.com/product/512696_200w.jpg,74,23212,https://cpt.tcgcsv.com/X576,2023-08-25T04:03:10.707,1,Collector Super Rare,026,"Bedivere has taunt as long as you control another Animal or Beast ally.
+<br>
+[Class Bonus] [Level 3+] On Death: Put a buff counter on each Animal and/or Beast ally you control.",,,Norm,,3,97.0,99.99,249.99,95.9,,Foil,,,,,4,1,
+512697,Bauble of Abundance,Bauble of Abundance,https://tcgplayer-cdn.tcgplayer.com/product/512697_200w.jpg,74,23212,https://cpt.tcgcsv.com/Z576,2023-08-25T04:03:10.707,1,Super Rare,002,Banish Bauble of Abundance: Each player draws a card.,Item;Regalia,Bauble;Cleric,Norm,Cleric,,8.73,13.5,30.0,9.32,,Foil,0,,"<em>Glittering trinkets, coins, and treasures. Plenty enough to be shared among friend and foe alike.</em>",,,,
+512699,"Blanche, Sheltering Saint",Blanche Sheltering Saint,https://tcgplayer-cdn.tcgplayer.com/product/512699_200w.jpg,74,23212,https://cpt.tcgcsv.com/_576,2023-08-25T04:03:10.707,1,Super Rare,027,"[Level 2+] Fast Activation <em>(You may activate this card at fast speed.)</em>
+<br>
+If another unit you control would be dealt non-attack damage, prevent an amount of that damage equal to the amount of cards in your memory.""",Ally;Unique,Cleric;Human,Norm,Cleric,2,49.99,49.99,49.99,31.45,,Foil,,,,,2,1,
+512699,"Blanche, Sheltering Saint",Blanche Sheltering Saint,https://tcgplayer-cdn.tcgplayer.com/product/512699_200w.jpg,74,23212,https://cpt.tcgcsv.com/_576,2023-08-25T04:03:10.707,1,Super Rare,027,"[Level 2+] Fast Activation <em>(You may activate this card at fast speed.)</em>
+<br>
+If another unit you control would be dealt non-attack damage, prevent an amount of that damage equal to the amount of cards in your memory.""",Ally;Unique,Cleric;Human,Norm,Cleric,2,29.0,29.99,44.99,29.16,,Normal,,,,,2,1,
+512700,Beastbond Boots,Beastbond Boots,https://tcgplayer-cdn.tcgplayer.com/product/512700_200w.jpg,74,23212,https://cpt.tcgcsv.com/0676,2023-08-25T04:03:10.707,1,Super Rare,003,Banish Beastbond Paws: Your champion gains spellshroud until end of turn. Activate this ability only if you control an Animal or Beast ally. (Units with spellshroud can't be targeted by Spells.),Item;Regalia,Accessory;Tamer,Norm,Tamer,,10.98,14.95,38.88,11.22,,Foil,0,,<em>A tamer's bond with their beast goes beyond simple empathy.</em>,,,,
+512701,"Blanche, Sheltering Saint (CSR)",Blanche Sheltering Saint CSR,https://tcgplayer-cdn.tcgplayer.com/product/512701_200w.jpg,74,23212,https://cpt.tcgcsv.com/2676,2023-08-25T04:03:10.707,1,Collector Super Rare,027,"[Level 2+] Fast Activation <em>(You may activate this card at fast speed.)</em>
+<br>
+If another unit you control would be dealt non-attack damage, prevent an amount of that damage equal to the amount of cards in your memory.""",Ally;Unique,Cleric;Human,Norm,Cleric,2,299.99,349.97,499.99,249.99,,Foil,,,,,2,1,
+512705,Capricious Lynx,Capricious Lynx,https://tcgplayer-cdn.tcgplayer.com/product/512705_200w.jpg,74,23212,https://cpt.tcgcsv.com/7676,2023-08-25T04:03:10.707,1,Common,028,"Pride 4 <em>(This ally won't obey you unless your champion is level 4 or higher.)</em>
+<br>
+[Class Bonus] On Enter: Capricious Lynx loses all abilities until end of turn.",Ally,Beast;Tamer,Norm,Tamer,3,0.02,0.16,1.29,0.09,,Normal,,,"<em>Quick to action, quicker to defiance.</em>",,3,3,
+512705,Capricious Lynx,Capricious Lynx,https://tcgplayer-cdn.tcgplayer.com/product/512705_200w.jpg,74,23212,https://cpt.tcgcsv.com/7676,2023-08-25T04:03:10.707,1,Common,028,"Pride 4 <em>(This ally won't obey you unless your champion is level 4 or higher.)</em>
+<br>
+[Class Bonus] On Enter: Capricious Lynx loses all abilities until end of turn.",Ally,Beast;Tamer,Norm,Tamer,3,0.1,0.6,3.94,0.19,,Foil,,,"<em>Quick to action, quicker to defiance.</em>",,3,3,
+512707,Cunning Broker,Cunning Broker,https://tcgplayer-cdn.tcgplayer.com/product/512707_200w.jpg,74,23212,https://cpt.tcgcsv.com/9676,2023-08-25T04:03:10.707,1,Common,029,"Stealth <em>(This unit can't be targeted by attacks unless permitted by true sight.)</em>
+<br>
+REST, Remove two preparation counters from your champion: Draw a card.",Ally,Assassin;Human,Norm,Assassin,2,0.04,0.17,1.31,0.09,,Normal,,,<em>Handling coins is but second nature.</em>,,3,0,
+512707,Cunning Broker,Cunning Broker,https://tcgplayer-cdn.tcgplayer.com/product/512707_200w.jpg,74,23212,https://cpt.tcgcsv.com/9676,2023-08-25T04:03:10.707,1,Common,029,"Stealth <em>(This unit can't be targeted by attacks unless permitted by true sight.)</em>
+<br>
+REST, Remove two preparation counters from your champion: Draw a card.",Ally,Assassin;Human,Norm,Assassin,2,0.1,0.28,3.35,0.23,,Foil,,,<em>Handling coins is but second nature.</em>,,3,0,
+512709,Develop Mana,Develop Mana,https://tcgplayer-cdn.tcgplayer.com/product/512709_200w.jpg,74,23212,https://cpt.tcgcsv.com/c676,2023-08-25T04:03:10.707,1,Common,031,Put a level counter on your champion. <em>(Champions get +1 level for each level counter on them.)</em>,Action,Mage;Spell,Norm,Mage,3,0.04,0.17,1.31,0.07,,Normal,,Slow,<em>From enlightenment comes transcendance.</em>,,,,
+512709,Develop Mana,Develop Mana,https://tcgplayer-cdn.tcgplayer.com/product/512709_200w.jpg,74,23212,https://cpt.tcgcsv.com/c676,2023-08-25T04:03:10.707,1,Common,031,Put a level counter on your champion. <em>(Champions get +1 level for each level counter on them.)</em>,Action,Mage;Spell,Norm,Mage,3,0.1,0.64,2.99,0.28,,Foil,,Slow,<em>From enlightenment comes transcendance.</em>,,,,
+512717,"Gawain, Chivalrous Thief",Gawain Chivalrous Thief,https://tcgplayer-cdn.tcgplayer.com/product/512717_200w.jpg,74,23212,https://cpt.tcgcsv.com/m676,2023-08-25T04:03:10.707,1,Super Rare,034,"[Level 2+] True Sight
+<br>
+[Class Bonus] On Champion Hit: You may sacrifice Gawain. If you do, look at that opponent's memory and discard a card from it.",Ally;Unique,Assassin;Human;Ranger,Norm,Assassin;Ranger,2,7.99,9.5,29.99,9.95,,Foil,,,<em>A master spy and notorious thief who never misses.</em>,,1,1,
+512717,"Gawain, Chivalrous Thief",Gawain Chivalrous Thief,https://tcgplayer-cdn.tcgplayer.com/product/512717_200w.jpg,74,23212,https://cpt.tcgcsv.com/m676,2023-08-25T04:03:10.707,1,Super Rare,034,"[Level 2+] True Sight
+<br>
+[Class Bonus] On Champion Hit: You may sacrifice Gawain. If you do, look at that opponent's memory and discard a card from it.",Ally;Unique,Assassin;Human;Ranger,Norm,Assassin;Ranger,2,2.99,3.9,14.99,3.51,,Normal,,,<em>A master spy and notorious thief who never misses.</em>,,1,1,
+512719,Gentle Respite,Gentle Respite,https://tcgplayer-cdn.tcgplayer.com/product/512719_200w.jpg,74,23212,https://cpt.tcgcsv.com/p676,2023-08-25T04:03:10.707,1,Rare,035,"If target opponent's influence is greater than yours, draw a card into your memory. <em>(A player's influence is equal to the total amount of cards in their hand and memory.)</em>
+<br>
+Floating Memory",Action,Cleric;Spell,Norm,Cleric,3,2.91,3.0,22.99,12.65,,Foil,,Slow,,,,,
+512719,Gentle Respite,Gentle Respite,https://tcgplayer-cdn.tcgplayer.com/product/512719_200w.jpg,74,23212,https://cpt.tcgcsv.com/p676,2023-08-25T04:03:10.707,1,Rare,035,"If target opponent's influence is greater than yours, draw a card into your memory. <em>(A player's influence is equal to the total amount of cards in their hand and memory.)</em>
+<br>
+Floating Memory",Action,Cleric;Spell,Norm,Cleric,3,0.43,0.87,2.5,0.99,,Normal,,Slow,,,,,
+512724,Imperious Highlander,Imperious Highlander,https://tcgplayer-cdn.tcgplayer.com/product/512724_200w.jpg,74,23212,https://cpt.tcgcsv.com/v676,2023-08-25T04:03:10.707,1,Common,036,On Enter: Imperious Highlander gets +X power until end of turn where X is the amount of allies target opponent controls more than you control.,Ally,Human;Warrior,Norm,Warrior,3,0.1,0.33,3.99,0.24,,Foil,,,"<em>Against all odds and against an insurmountable front, there can be only one answer.</em>",,2,2,
+512724,Imperious Highlander,Imperious Highlander,https://tcgplayer-cdn.tcgplayer.com/product/512724_200w.jpg,74,23212,https://cpt.tcgcsv.com/v676,2023-08-25T04:03:10.707,1,Common,036,On Enter: Imperious Highlander gets +X power until end of turn where X is the amount of allies target opponent controls more than you control.,Ally,Human;Warrior,Norm,Warrior,3,0.03,0.16,1.3,0.05,,Normal,,,"<em>Against all odds and against an insurmountable front, there can be only one answer.</em>",,2,2,
+512725,Lurking Assailant,Lurking Assailant,https://tcgplayer-cdn.tcgplayer.com/product/512725_200w.jpg,74,23212,https://cpt.tcgcsv.com/w676,2023-08-25T04:03:10.707,1,Common,038,"Lurking Assailant has stealth as long as it's awake.
+<br>
+[Level 1+] Lurking Assailant may retaliate against attackers while not defending. """,Ally,Assassin;Human,Norm,Assassin,3,0.05,0.2,1.32,0.15,,Normal,,,"<em>Some assassins prove their skill with a dagger, others prove it with a glib tongue and twisted schemes.</em>",,3,2,
+512725,Lurking Assailant,Lurking Assailant,https://tcgplayer-cdn.tcgplayer.com/product/512725_200w.jpg,74,23212,https://cpt.tcgcsv.com/w676,2023-08-25T04:03:10.707,1,Common,038,"Lurking Assailant has stealth as long as it's awake.
+<br>
+[Level 1+] Lurking Assailant may retaliate against attackers while not defending. """,Ally,Assassin;Human,Norm,Assassin,3,0.99,2.63,7.0,1.48,,Foil,,,"<em>Some assassins prove their skill with a dagger, others prove it with a glib tongue and twisted schemes.</em>",,3,2,
+512727,"Morgan, Soul Guide",Morgan Soul Guide,https://tcgplayer-cdn.tcgplayer.com/product/512727_200w.jpg,74,23212,https://cpt.tcgcsv.com/z676,2023-08-25T04:03:10.707,1,Super Rare,039,"[Level 1+] Prevent all non-attack damage that would be dealt to Morgan.
+<br>
+[Level 2+] Your opponents can't recover.
+<br>
+[Class Bonus] At the beginning of your recollection phase, you may glimpse 1. If you don't, recover 1.",Ally;Unique,Cleric;Human;Mage,Norm,Cleric;Mage,2,9.34,11.0,14.99,8.49,,Normal,,,,,3,1,
+512727,"Morgan, Soul Guide",Morgan Soul Guide,https://tcgplayer-cdn.tcgplayer.com/product/512727_200w.jpg,74,23212,https://cpt.tcgcsv.com/z676,2023-08-25T04:03:10.707,1,Super Rare,039,"[Level 1+] Prevent all non-attack damage that would be dealt to Morgan.
+<br>
+[Level 2+] Your opponents can't recover.
+<br>
+[Class Bonus] At the beginning of your recollection phase, you may glimpse 1. If you don't, recover 1.",Ally;Unique,Cleric;Human;Mage,Norm,Cleric;Mage,2,16.99,26.87,39.89,16.4,,Foil,,,,,3,1,
+512728,"Morgan, Soul Guide (CSR)",Morgan Soul Guide CSR,https://tcgplayer-cdn.tcgplayer.com/product/512728_200w.jpg,74,23212,https://cpt.tcgcsv.com/B676,2023-08-25T04:03:10.707,1,Collector Super Rare,039,"[Level 1+] Prevent all non-attack damage that would be dealt to Morgan.
+<br>
+[Level 2+] Your opponents can't recover.
+<br>
+[Class Bonus] At the beginning of your recollection phase, you may glimpse 1. If you don't, recover 1.",Ally;Unique,Cleric;Human;Mage,Norm,Cleric;Mage,2,200.0,200.0,200.0,195.7,,Foil,,,,,3,1,
+512729,Ordinary Bear,Ordinary Bear,https://tcgplayer-cdn.tcgplayer.com/product/512729_200w.jpg,74,23212,https://cpt.tcgcsv.com/C676,2023-08-25T04:03:10.707,1,Common,040,"Pride 2 <em>(This ally won't obey you unless your champion is level 2 or higher.)</em>
+[Class Bonus] Floating Memory <em>(While paying for a memory cost, you may banish this card from your graveyard to pay for 1 of that cost.)</em>",Ally,Beast;Bear,Norm,,,0.05,0.2,1.3,0.07,,Normal,3,,,,3,2,
+512729,Ordinary Bear,Ordinary Bear,https://tcgplayer-cdn.tcgplayer.com/product/512729_200w.jpg,74,23212,https://cpt.tcgcsv.com/C676,2023-08-25T04:03:10.707,1,Common,040,"Pride 2 <em>(This ally won't obey you unless your champion is level 2 or higher.)</em>
+[Class Bonus] Floating Memory <em>(While paying for a memory cost, you may banish this card from your graveyard to pay for 1 of that cost.)</em>",Ally,Beast;Bear,Norm,,,0.25,0.94,8.0,0.49,,Foil,3,,,,3,2,
+512730,Peaceful Reunion,Peaceful Reunion,https://tcgplayer-cdn.tcgplayer.com/product/512730_200w.jpg,74,23212,https://cpt.tcgcsv.com/D676,2023-08-25T04:03:10.707,1,Common,041,"Activate this card only if you have not declared an attack this turn.
+<br>
+Until the beginning of your next turn, you and target player can't declare attacks. Banish Peaceful Reunion.",Action,Spell,Norm,Cleric,,0.05,0.17,2.5,0.12,,Normal,4,Slow,,,,,
+512730,Peaceful Reunion,Peaceful Reunion,https://tcgplayer-cdn.tcgplayer.com/product/512730_200w.jpg,74,23212,https://cpt.tcgcsv.com/D676,2023-08-25T04:03:10.707,1,Common,041,"Activate this card only if you have not declared an attack this turn.
+<br>
+Until the beginning of your next turn, you and target player can't declare attacks. Banish Peaceful Reunion.",Action,Spell,Norm,Cleric,,0.47,0.95,5.0,0.54,,Foil,4,Slow,,,,,
+512731,Beastbond Ears,Beastbond Ears,https://tcgplayer-cdn.tcgplayer.com/product/512731_200w.jpg,74,23212,https://cpt.tcgcsv.com/F676,2023-08-25T04:03:10.707,1,Super Rare,004,Your champion gets +1 level as long as you control an Animal or Beast ally.,Item;Regalia,Accessory;Tamer,Norm,Tamer,,7.96,8.97,10.55,8.48,,Foil,0,,<em>The easiest way to gain a beast's favor is to first look like them.</em>,,,,
+512734,Beastbond Paws,Beastbond Paws,https://tcgplayer-cdn.tcgplayer.com/product/512734_200w.jpg,74,23212,https://cpt.tcgcsv.com/J676,2024-12-20T14:26:47.21,1,Super Rare,005,Banish Beastbond Paws: Target Animal or Beast ally you control gets +1 power and gains true sight until end of turn. (Units with true sight can attack units with stealth.),Item;Regalia,Accessory;Tamer,Norm,Tamer,,5.99,8.78,16.84,6.23,,Foil,0,,<em>A beast's ferocity and a tamer's guidance make for a formidable combination.</em>,,,,
+512735,Prismatic Sanctuary,Prismatic Sanctuary,https://tcgplayer-cdn.tcgplayer.com/product/512735_200w.jpg,74,23212,https://cpt.tcgcsv.com/K676,2023-08-25T04:03:10.707,1,Super Rare,042,"<em>Upkeep</em> — At the beginning of your recollection phase, reveal a card at random from your memory. If that card is not fire, water, nor wind element, sacrifice Prismatic Sanctuary.
+<br>
+Fire, water, and wind elements are enabled for you.",Domain;Unique,Castle,Norm,Mage,,3.99,5.07,9.99,5.07,,Foil,3,,,,,,
+512735,Prismatic Sanctuary,Prismatic Sanctuary,https://tcgplayer-cdn.tcgplayer.com/product/512735_200w.jpg,74,23212,https://cpt.tcgcsv.com/K676,2023-08-25T04:03:10.707,1,Super Rare,042,"<em>Upkeep</em> — At the beginning of your recollection phase, reveal a card at random from your memory. If that card is not fire, water, nor wind element, sacrifice Prismatic Sanctuary.
+<br>
+Fire, water, and wind elements are enabled for you.",Domain;Unique,Castle,Norm,Mage,,0.15,0.8,8.0,0.26,,Normal,3,,,,,,
+512736,Resolute Stand,Resolute Stand,https://tcgplayer-cdn.tcgplayer.com/product/512736_200w.jpg,74,23212,https://cpt.tcgcsv.com/L676,2023-08-25T04:03:10.707,1,Uncommon,043,"[Level 2+] You may activate this card without paying its reserve cost. If you do, skip your next draw phase.
+<br>
+If target unit would be dealt attack damage this turn, prevent 3 of that damage.",Action,Reaction;Skill,Norm,Guardian,,8.99,8.99,8.99,6.98,,Foil,3,Fast,"<em>""...with boundless resolve and forsakenness.""</em>",,,,
+512736,Resolute Stand,Resolute Stand,https://tcgplayer-cdn.tcgplayer.com/product/512736_200w.jpg,74,23212,https://cpt.tcgcsv.com/L676,2023-08-25T04:03:10.707,1,Uncommon,043,"[Level 2+] You may activate this card without paying its reserve cost. If you do, skip your next draw phase.
+<br>
+If target unit would be dealt attack damage this turn, prevent 3 of that damage.",Action,Reaction;Skill,Norm,Guardian,,0.25,0.4,0.99,0.42,,Normal,3,Fast,"<em>""...with boundless resolve and forsakenness.""</em>",,,,
+512737,Crystal of Empowerment,Crystal of Empowerment,https://tcgplayer-cdn.tcgplayer.com/product/512737_200w.jpg,74,23212,https://cpt.tcgcsv.com/M676,2023-08-25T04:03:10.707,1,Super Rare,030,Banish Crystal of Empowerment: Your champion gets +2 level until end of turn.,Item;Regalia,Crystal;Mage,Norm,Mage,,3.94,5.24,39.94,4.46,,Foil,0,,"<em>Mages often store their excess mana into such crystals. If used by even a novice mage, one might mistake them for far greater.</em>",,,,
+512738,Curved Dagger,Curved Dagger,https://tcgplayer-cdn.tcgplayer.com/product/512738_200w.jpg,74,23212,https://cpt.tcgcsv.com/N676,2023-08-25T04:03:10.707,1,Super Rare,007,"[Class Bonus] As long as your champion is attacking an ally, Curved Dagger gets +1 power. (Apply this effect only if your champion's class matches this card's class.)",Weapon;Regalia,Assassin;Dagger,Norm,Assassin,,2.99,4.58,29.99,4.04,,Foil,0,,<em>Its curved edge is perfect for slicing through the flesh of both man and monster.</em>,,,1,1
+512740,Right of Realm,Right of Realm,https://tcgplayer-cdn.tcgplayer.com/product/512740_200w.jpg,74,23212,https://cpt.tcgcsv.com/Q676,2023-08-25T04:03:10.707,1,Ultra Rare,044,"Whenever you activate a domain card, you may sacrifice Right of Realm. If you do, that domain enters the field without any of its upkeep abilities.
+<br> 
+Floating Memory <em>(While paying for a memory cost, you may banish this card from your graveyard to pay for 1 of that cost.)</em>",Item,Accessory,Norm,Guardian,,24.99,28.87,37.49,13.37,,Foil,3,,,,,,
+512740,Right of Realm,Right of Realm,https://tcgplayer-cdn.tcgplayer.com/product/512740_200w.jpg,74,23212,https://cpt.tcgcsv.com/Q676,2023-08-25T04:03:10.707,1,Ultra Rare,044,"Whenever you activate a domain card, you may sacrifice Right of Realm. If you do, that domain enters the field without any of its upkeep abilities.
+<br> 
+Floating Memory <em>(While paying for a memory cost, you may banish this card from your graveyard to pay for 1 of that cost.)</em>",Item,Accessory,Norm,Guardian,,3.75,4.99,28.0,4.49,,Normal,3,,,,,,
+512741,Drawn Blade,Drawn Blade,https://tcgplayer-cdn.tcgplayer.com/product/512741_200w.jpg,74,23212,https://cpt.tcgcsv.com/R676,2023-08-25T04:03:10.707,1,Super Rare,008,[Class Bonus] On Enter: Draw a card. (Apply this effect only if your champion's class matches this card's class.),Weapon;Regalia,Sword;Warrior,Norm,Warrior,,22.81,24.0,25.0,21.87,,Foil,1,,"<em>Oiled and sharpened, this sword can be unsheathed faster than a foe can react.</em>",,,1,1
+512743,Seeking Shot,Seeking Shot,https://tcgplayer-cdn.tcgplayer.com/product/512743_200w.jpg,74,23212,https://cpt.tcgcsv.com/T676,2023-08-25T04:03:10.707,1,Common,046,"[Level 2+] True Sight
+<br>
+[Class Bonus] Seeking Shot can't be retaliated.
+<br>
+As long as the attacker is attacking a Human ally, Seeking Shot gets +3 power.",Attack,Bow,Norm,Ranger,,0.04,0.17,1.31,0.09,,Normal,1,,<em>Those hit seldom know where the shot came from.</em>,,,1,
+512743,Seeking Shot,Seeking Shot,https://tcgplayer-cdn.tcgplayer.com/product/512743_200w.jpg,74,23212,https://cpt.tcgcsv.com/T676,2023-08-25T04:03:10.707,1,Common,046,"[Level 2+] True Sight
+<br>
+[Class Bonus] Seeking Shot can't be retaliated.
+<br>
+As long as the attacker is attacking a Human ally, Seeking Shot gets +3 power.",Attack,Bow,Norm,Ranger,,0.25,0.82,19.99,0.82,,Foil,1,,<em>Those hit seldom know where the shot came from.</em>,,,1,
+512744,"Endura, Scepter of Ignition",Endura Scepter of Ignition,https://tcgplayer-cdn.tcgplayer.com/product/512744_200w.jpg,74,23212,https://cpt.tcgcsv.com/V676,2023-08-25T04:03:10.707,1,Super Rare,009,"REST, Remove an enlighten counter from your champion: Deal 1 damage to target unit. Activate this ability only at slow speed.",Item;Regalia,Mage;Scepter,Norm,Mage,,3.64,4.6,45.0,4.08,,Foil,0,,"<em>Its spark glows vibrantly in otherworldly color. Some say the staff has an ominous origin, perhaps from a far more sinister world.</em>",,,,
+512745,Fire Resonance Bauble,Fire Resonance Bauble,https://tcgplayer-cdn.tcgplayer.com/product/512745_200w.jpg,74,23212,https://cpt.tcgcsv.com/W676,2023-08-25T04:03:10.707,1,Super Rare,010,Banish Fire Resonance Bauble: Draw a card. Activate this ability only if an opponent controls a fire element champion.,Item;Regalia,Bauble;Mage,Norm,Mage,,15.99,18.18,23.83,18.43,,Foil,0,,"<em>Captured, perhaps, but never tamed. This spirit's owner must always err on the side of caution.</em>",,,,
+512746,Stalwart Shieldmate,Stalwart Shieldmate,https://tcgplayer-cdn.tcgplayer.com/product/512746_200w.jpg,74,23212,https://cpt.tcgcsv.com/X676,2023-08-25T04:03:10.707,1,Common,047,"Taunt <em>(While awake, this ally must be targeted before other units you control during your opponents' attack declarations if able.)</em>
+<br>
+Floating Memory <em>(While paying for a memory cost, you may banish this card from your graveyard to pay for 1 of that cost.)</em>",Ally,Human,Norm,Guardian,,0.1,0.25,1.35,0.26,,Normal,2,,,,2,0,
+512746,Stalwart Shieldmate,Stalwart Shieldmate,https://tcgplayer-cdn.tcgplayer.com/product/512746_200w.jpg,74,23212,https://cpt.tcgcsv.com/X676,2023-08-25T04:03:10.707,1,Common,047,"Taunt <em>(While awake, this ally must be targeted before other units you control during your opponents' attack declarations if able.)</em>
+<br>
+Floating Memory <em>(While paying for a memory cost, you may banish this card from your graveyard to pay for 1 of that cost.)</em>",Ally,Human,Norm,Guardian,,1.7,2.54,5.0,1.78,,Foil,2,,,,2,0,
+512747,Jewel of Enlightenment,Jewel of Enlightenment,https://tcgplayer-cdn.tcgplayer.com/product/512747_200w.jpg,74,23212,https://cpt.tcgcsv.com/Z676,2023-08-25T04:03:10.707,1,Super Rare,011,Banish Jewel of Enlightenment: Put an enlighten counter on your champion. (You may remove three enlighten counters from your champion to draw a card.),Item;Regalia,Crystal;Mage,Norm,Mage,,2.99,3.65,25.99,3.58,,Foil,0,,"<em>Recording their thoughts into gems, mages planned keenly for their posterity.</em>",,,,
+512748,Steady Verse,Steady Verse,https://tcgplayer-cdn.tcgplayer.com/product/512748_200w.jpg,74,23212,https://cpt.tcgcsv.com/-676,2023-08-25T04:03:10.707,1,Common,048,"[Class Bonus] The next Harmony action card you activate this turn costs 1 less to activate. 
+<br>
+Draw a card into your memory.",Action,Melody,Norm,Cleric;Tamer,,0.04,0.16,1.31,0.08,,Normal,2,Slow,<em>A rousing allegro before the crescendo.</em>,,,,
+512748,Steady Verse,Steady Verse,https://tcgplayer-cdn.tcgplayer.com/product/512748_200w.jpg,74,23212,https://cpt.tcgcsv.com/-676,2023-08-25T04:03:10.707,1,Common,048,"[Class Bonus] The next Harmony action card you activate this turn costs 1 less to activate. 
+<br>
+Draw a card into your memory.",Action,Melody,Norm,Cleric;Tamer,,0.1,0.61,4.94,0.61,,Foil,2,Slow,<em>A rousing allegro before the crescendo.</em>,,,,
+512749,Thieving Cut,Thieving Cut,https://tcgplayer-cdn.tcgplayer.com/product/512749_200w.jpg,74,23212,https://cpt.tcgcsv.com/_676,2023-08-25T04:03:10.707,1,Common,049,"Prepare 1 <em>(You may remove a preparation counter from your champion as you activate this card.)</em>
+<br>
+On Hit: If Thieving Cut was prepared, draw a card.",Attack,Dagger,Norm,Assassin,,0.49,1.32,5.0,0.6,,Foil,2,,<em>What's yours is mine.</em>,,,3,
+512749,Thieving Cut,Thieving Cut,https://tcgplayer-cdn.tcgplayer.com/product/512749_200w.jpg,74,23212,https://cpt.tcgcsv.com/_676,2023-08-25T04:03:10.707,1,Common,049,"Prepare 1 <em>(You may remove a preparation counter from your champion as you activate this card.)</em>
+<br>
+On Hit: If Thieving Cut was prepared, draw a card.",Attack,Dagger,Norm,Assassin,,0.04,0.15,1.31,0.1,,Normal,2,,<em>What's yours is mine.</em>,,,3,
+512750,Blazing Bowman,Blazing Bowman,https://tcgplayer-cdn.tcgplayer.com/product/512750_200w.jpg,74,23212,https://cpt.tcgcsv.com/0776,2023-08-25T04:03:10.707,1,Common,050,"Blazing Bowman's attacks can't be retaliated.
+<br>
+On Enter: You may banish a fire element card from your graveyard. If you do, Blazing Bowman gets +2 power end of turn.",Ally,Human,Fire,Ranger,,0.21,0.41,6.0,0.35,,Foil,3,,,,1,2,
+512750,Blazing Bowman,Blazing Bowman,https://tcgplayer-cdn.tcgplayer.com/product/512750_200w.jpg,74,23212,https://cpt.tcgcsv.com/0776,2023-08-25T04:03:10.707,1,Common,050,"Blazing Bowman's attacks can't be retaliated.
+<br>
+On Enter: You may banish a fire element card from your graveyard. If you do, Blazing Bowman gets +2 power end of turn.",Ally,Human,Fire,Ranger,,0.03,0.15,1.3,0.08,,Normal,3,,,,1,2,
+512751,Corhazi Arsonist,Corhazi Arsonist,https://tcgplayer-cdn.tcgplayer.com/product/512751_200w.jpg,74,23212,https://cpt.tcgcsv.com/2776,2023-08-25T04:03:10.707,1,Uncommon,051,"Remove a preparation counter from your champion: Corhazi Arsonist gains stealth until end of turn.
+<br>
+If a unit hit by Corhazi Arsonist this turn would die, banish it instead.",Ally,Human,Fire,Assassin,,0.25,0.81,14.92,0.44,,Foil,3,,,,2,2,
+512751,Corhazi Arsonist,Corhazi Arsonist,https://tcgplayer-cdn.tcgplayer.com/product/512751_200w.jpg,74,23212,https://cpt.tcgcsv.com/2776,2023-08-25T04:03:10.707,1,Uncommon,051,"Remove a preparation counter from your champion: Corhazi Arsonist gains stealth until end of turn.
+<br>
+If a unit hit by Corhazi Arsonist this turn would die, banish it instead.",Ally,Human,Fire,Assassin,,0.05,0.2,1.99,0.1,,Normal,3,,,,2,2,
+512752,Mana Limiter,Mana Limiter,https://tcgplayer-cdn.tcgplayer.com/product/512752_200w.jpg,74,23212,https://cpt.tcgcsv.com/3776,2023-08-25T04:03:10.707,1,Super Rare,012,You can't remove enlighten counters from your champion to pay for costs. <br>Banish Mana Limiter: Draw a card. Activate this ability only if your champion has six or more enlighten counters on them.,Item;Regalia,Bauble;Mage,Norm,Mage,,1.98,3.99,15.96,2.23,,Foil,0,,,,,,
+512753,Flamebreak Chorus,Flamebreak Chorus,https://tcgplayer-cdn.tcgplayer.com/product/512753_200w.jpg,74,23212,https://cpt.tcgcsv.com/5776,2023-08-25T04:03:10.707,1,Common,052,"[Class Bonus] Fast Activation <em>(You may activate this card at fast speed.)</em>
+<br>
+Target ally gets +2 power until end of turn. If it's defending, wake it up, and it gets an additional +LV power until end of turn.",Action,Melody;Skill,Fire,Tamer,,0.04,0.17,1.31,0.12,,Normal,2,Slow,,,,,
+512753,Flamebreak Chorus,Flamebreak Chorus,https://tcgplayer-cdn.tcgplayer.com/product/512753_200w.jpg,74,23212,https://cpt.tcgcsv.com/5776,2023-08-25T04:03:10.707,1,Common,052,"[Class Bonus] Fast Activation <em>(You may activate this card at fast speed.)</em>
+<br>
+Target ally gets +2 power until end of turn. If it's defending, wake it up, and it gets an additional +LV power until end of turn.",Action,Melody;Skill,Fire,Tamer,,0.1,0.53,2.82,0.25,,Foil,2,Slow,,,,,
+512754,Melodious Flute,Melodious Flute,https://tcgplayer-cdn.tcgplayer.com/product/512754_200w.jpg,74,23212,https://cpt.tcgcsv.com/6776,2023-08-25T04:03:10.707,1,Super Rare,013,Your champion gets +1 level as long as you control an Animal or Beast ally.<br>[Class Bonus] Banish Melodious Flute: The next Harmony action card you activate this turn is a Melody in addition to its other types.,Item;Regalia,Instrument;Tamer,Norm,Tamer,,2.99,3.3,9.99,3.88,,Foil,1,,,,,,
+512755,Hone by Fire,Hone by Fire,https://tcgplayer-cdn.tcgplayer.com/product/512755_200w.jpg,74,23212,https://cpt.tcgcsv.com/7776,2023-08-25T04:03:10.707,1,Common,053,Target Sword weapon you control gets +2 power until end of turn. Class Bonus: Put a durability counter on it.,Action,Craft;Sword,Fire,Warrior,,0.04,0.17,1.31,0.16,,Normal,2,Fast,<em>Enwreathed and tempered in flame.</em>,,,,
+512755,Hone by Fire,Hone by Fire,https://tcgplayer-cdn.tcgplayer.com/product/512755_200w.jpg,74,23212,https://cpt.tcgcsv.com/7776,2023-08-25T04:03:10.707,1,Common,053,Target Sword weapon you control gets +2 power until end of turn. Class Bonus: Put a durability counter on it.,Action,Craft;Sword,Fire,Warrior,,0.49,0.93,19.99,0.84,,Foil,2,Fast,<em>Enwreathed and tempered in flame.</em>,,,,
+512756,Incendiary Fractal,Incendiary Fractal,https://tcgplayer-cdn.tcgplayer.com/product/512756_200w.jpg,74,23212,https://cpt.tcgcsv.com/8776,2023-08-25T04:03:10.707,1,Common,054,"On Enter: Deal 2 damage to target ally you don't control. Class Bonus: Deal 4 damage to that ally instead.
+<br>
+Reservable <em>(While paying for a reserve cost, you may rest this object to pay for 1 of that cost.)</em>",Phantasia,Fractal,Fire,Mage,,0.25,0.52,9.0,0.26,,Foil,4,,,,,,
+512756,Incendiary Fractal,Incendiary Fractal,https://tcgplayer-cdn.tcgplayer.com/product/512756_200w.jpg,74,23212,https://cpt.tcgcsv.com/8776,2023-08-25T04:03:10.707,1,Common,054,"On Enter: Deal 2 damage to target ally you don't control. Class Bonus: Deal 4 damage to that ally instead.
+<br>
+Reservable <em>(While paying for a reserve cost, you may rest this object to pay for 1 of that cost.)</em>",Phantasia,Fractal,Fire,Mage,,0.04,0.18,1.31,0.18,,Normal,4,,,,,,
+512757,Ornamental Greatsword,Ornamental Greatsword,https://tcgplayer-cdn.tcgplayer.com/product/512757_200w.jpg,74,23212,https://cpt.tcgcsv.com/9776,2023-08-25T04:03:10.707,1,Super Rare,014,[Class Bonus] On Enter: Target ally you control gets +1 power until end of turn. (Apply this effect only if your champion's class matches this card's class.),Weapon;Regalia,Guardian;Sword;Warrior,Norm,Warrior;Guardian,,9.99,11.19,28.0,7.03,,Foil,0,,"<em>An ornate and pristine sword used ceremoniously with great effect, though dull of edge.</em>",,,1,1
+512758,Innervate Fury,Innervate Fury,https://tcgplayer-cdn.tcgplayer.com/product/512758_200w.jpg,74,23212,https://cpt.tcgcsv.com/b776,2023-08-25T04:03:10.707,1,Rare,055,"As an additional cost to activate this card, delevel your champion and recover 5. <em>(To delevel your champion, return the top card of its lineage to its owner's material deck.)</em>
+<br>
+Deal 7 damage split among any amount of target allies.",Action,Spell,Fire,Mage,,1.25,3.5,22.99,1.27,,Foil,3,Slow,,,,,
+512758,Innervate Fury,Innervate Fury,https://tcgplayer-cdn.tcgplayer.com/product/512758_200w.jpg,74,23212,https://cpt.tcgcsv.com/b776,2023-08-25T04:03:10.707,1,Rare,055,"As an additional cost to activate this card, delevel your champion and recover 5. <em>(To delevel your champion, return the top card of its lineage to its owner's material deck.)</em>
+<br>
+Deal 7 damage split among any amount of target allies.",Action,Spell,Fire,Mage,,0.1,0.25,2.0,0.22,,Normal,3,Slow,,,,,
+512759,Corhazi Trapper,Corhazi Trapper,https://tcgplayer-cdn.tcgplayer.com/product/512759_200w.jpg,74,23212,https://cpt.tcgcsv.com/c776,2023-08-25T04:03:10.707,1,Uncommon,058,"On Enter: Put a preparation counter on your champion.
+<br>
+REST, Remove a preparation counter from your champion: Target unit's attacks get -3 power until end of turn.",Ally,Human,Water,Assassin,,0.05,0.2,1.99,0.15,,Normal,3,,<em>Well-placed traps to turn the tide.</em>,,3,1,
+512759,Corhazi Trapper,Corhazi Trapper,https://tcgplayer-cdn.tcgplayer.com/product/512759_200w.jpg,74,23212,https://cpt.tcgcsv.com/c776,2023-08-25T04:03:10.707,1,Uncommon,058,"On Enter: Put a preparation counter on your champion.
+<br>
+REST, Remove a preparation counter from your champion: Target unit's attacks get -3 power until end of turn.",Ally,Human,Water,Assassin,,0.98,1.5,5.0,1.37,,Foil,3,,<em>Well-placed traps to turn the tide.</em>,,3,1,
+512760,Poisoned Dagger,Poisoned Dagger,https://tcgplayer-cdn.tcgplayer.com/product/512760_200w.jpg,74,23212,https://cpt.tcgcsv.com/d776,2023-08-25T04:03:10.707,1,Super Rare,015,"Poisoned Dagger enters the field rested.<br>REST, Banish Poisoned Dagger: Deal 1 damage to target unit. Class Bonus: Until end of turn, if that unit were to take damage, it takes that much damage plus 1 instead.",Item;Regalia,Assassin;Dagger,Norm,Assassin,,9.99,23.85,39.99,18.58,,Foil,0,,<em>A little poison goes a long way.</em>,,,,
+512761,Fractal of Intrusion,Fractal of Intrusion,https://tcgplayer-cdn.tcgplayer.com/product/512761_200w.jpg,74,23212,https://cpt.tcgcsv.com/f776,2023-08-25T04:03:10.707,1,Rare,060,"On Enter: You may banish a card with floating memory from your graveyard. When you do, look at target opponent's memory and discard a card from it.
+<br>
+Reservable <em>(While paying for a reserve cost, you may rest this object to pay for 1 of that cost.)</em>",Phantasia,Fractal,Water,Cleric,,0.95,1.04,5.0,1.09,,Normal,3,,,,,,
+512761,Fractal of Intrusion,Fractal of Intrusion,https://tcgplayer-cdn.tcgplayer.com/product/512761_200w.jpg,74,23212,https://cpt.tcgcsv.com/f776,2023-08-25T04:03:10.707,1,Rare,060,"On Enter: You may banish a card with floating memory from your graveyard. When you do, look at target opponent's memory and discard a card from it.
+<br>
+Reservable <em>(While paying for a reserve cost, you may rest this object to pay for 1 of that cost.)</em>",Phantasia,Fractal,Water,Cleric,,8.99,9.95,9.99,5.27,,Foil,3,,,,,,
+512763,Fracturize,Fracturize,https://tcgplayer-cdn.tcgplayer.com/product/512763_200w.jpg,74,23212,https://cpt.tcgcsv.com/h776,2023-08-25T04:03:10.707,1,Rare,061,"Target item or weapon becomes a Cleric Fractal phantasia with reservable and loses all other abilities. <em>(This effect lasts indefinitely.)</em>
+<br>
+Floating Memory",Action,Spell,Water,Cleric;Mage,,15.94,16.51,20.0,16.04,,Normal,2,Fast,"<em>""You'd stand a better chance fighting without them.""</em>",,,,
+512763,Fracturize,Fracturize,https://tcgplayer-cdn.tcgplayer.com/product/512763_200w.jpg,74,23212,https://cpt.tcgcsv.com/h776,2023-08-25T04:03:10.707,1,Rare,061,"Target item or weapon becomes a Cleric Fractal phantasia with reservable and loses all other abilities. <em>(This effect lasts indefinitely.)</em>
+<br>
+Floating Memory",Action,Spell,Water,Cleric;Mage,,38.0,43.94,56.31,43.94,,Foil,2,Fast,"<em>""You'd stand a better chance fighting without them.""</em>",,,,
+512764,Safeguard Amulet,Safeguard Amulet,https://tcgplayer-cdn.tcgplayer.com/product/512764_200w.jpg,74,23212,https://cpt.tcgcsv.com/j776,2023-08-25T04:03:10.707,1,Super Rare,017,"Banish Safeguard Amulet: Whenever your champion would take non-attack damage this turn, prevent 4 of that damage.",Item;Regalia,Accessory;Cleric,Norm,Cleric,,,,,,,,0,,<em>Hopefully enough to block a fatal spell.</em>,,,,
+512767,Frostbind,Frostbind,https://tcgplayer-cdn.tcgplayer.com/product/512767_200w.jpg,74,23212,https://cpt.tcgcsv.com/m776,2023-08-25T04:03:10.707,1,Uncommon,062,Negate target card activation unless its controller pays 2. Banish the card that had its activation negated this way.,Action,Reaction;Spell,Water,Cleric,,3.79,3.99,5.43,4.33,,Foil,2,Fast,"<em>O'Lumina who shelters us, bind those who seek us harm in frost. Grant us peace under your blessing.""</em>",,,,
+512767,Frostbind,Frostbind,https://tcgplayer-cdn.tcgplayer.com/product/512767_200w.jpg,74,23212,https://cpt.tcgcsv.com/m776,2023-08-25T04:03:10.707,1,Uncommon,062,Negate target card activation unless its controller pays 2. Banish the card that had its activation negated this way.,Action,Reaction;Spell,Water,Cleric,,0.15,0.25,1.25,0.24,,Normal,2,Fast,"<em>O'Lumina who shelters us, bind those who seek us harm in frost. Grant us peace under your blessing.""</em>",,,,
+512769,Frostbinder Apostle,Frostbinder Apostle,https://tcgplayer-cdn.tcgplayer.com/product/512769_200w.jpg,74,23212,https://cpt.tcgcsv.com/p776,2023-08-25T04:03:10.707,1,Uncommon,063,"Intercept
+<br>
+[Level 2+] On Enter: Target rested ally you don't control gets -4[life] until end of turn.",Ally,Human,Water,Cleric,,0.57,1.12,9.99,1.0,,Foil,3,,,,2,0,
+512769,Frostbinder Apostle,Frostbinder Apostle,https://tcgplayer-cdn.tcgplayer.com/product/512769_200w.jpg,74,23212,https://cpt.tcgcsv.com/p776,2023-08-25T04:03:10.707,1,Uncommon,063,"Intercept
+<br>
+[Level 2+] On Enter: Target rested ally you don't control gets -4[life] until end of turn.",Ally,Human,Water,Cleric,,0.05,0.2,1.99,0.11,,Normal,3,,,,2,0,
+512772,Guarded Dissipation,Guarded Dissipation,https://tcgplayer-cdn.tcgplayer.com/product/512772_200w.jpg,74,23212,https://cpt.tcgcsv.com/s776,2023-08-25T04:03:10.707,1,Uncommon,064,"Prevent the next X damage that would be dealt to target unit this turn where X is the greatest power among Sword weapons you control. 
+<br>
+[Level 1+] Draw a card.",Action,Reaction;Skill,Water,Warrior,,0.47,1.0,4.99,0.63,,Foil,2,Fast,<em>An impeccible parry to nullify any assault.</em>,,,,
+512772,Guarded Dissipation,Guarded Dissipation,https://tcgplayer-cdn.tcgplayer.com/product/512772_200w.jpg,74,23212,https://cpt.tcgcsv.com/s776,2023-08-25T04:03:10.707,1,Uncommon,064,"Prevent the next X damage that would be dealt to target unit this turn where X is the greatest power among Sword weapons you control. 
+<br>
+[Level 1+] Draw a card.",Action,Reaction;Skill,Water,Warrior,,0.05,0.16,1.99,0.09,,Normal,2,Fast,<em>An impeccible parry to nullify any assault.</em>,,,,
+512774,Innervate Knowledge,Innervate Knowledge,https://tcgplayer-cdn.tcgplayer.com/product/512774_200w.jpg,74,23212,https://cpt.tcgcsv.com/v776,2023-08-25T04:03:10.707,1,Rare,065,"As an additional cost to activate this card, delevel your champion and recover 5. <em>(To delevel your champion, return the top card of its lineage to to its owner's material deck.)</em>
+<br>
+Draw two cards.",Action,Spell,Water,Mage,,1.99,2.99,25.0,2.99,,Foil,4,Slow,,,,,
+512774,Innervate Knowledge,Innervate Knowledge,https://tcgplayer-cdn.tcgplayer.com/product/512774_200w.jpg,74,23212,https://cpt.tcgcsv.com/v776,2023-08-25T04:03:10.707,1,Rare,065,"As an additional cost to activate this card, delevel your champion and recover 5. <em>(To delevel your champion, return the top card of its lineage to to its owner's material deck.)</em>
+<br>
+Draw two cards.",Action,Spell,Water,Mage,,0.1,0.25,3.99,0.21,,Normal,4,Slow,,,,,
+512775,Quicksilver Grail (016),Quicksilver Grail 016,https://tcgplayer-cdn.tcgplayer.com/product/512775_200w.jpg,74,23212,https://cpt.tcgcsv.com/w776,2023-08-25T04:03:10.707,1,Ultra Rare,016,"Divine Relic <em>(You can only have one card with this keyword in your material deck.)</em>
+<br>
+On Enter: Banish a non-champion card from your material deck face down.
+<br>
+Banish Quicksilver Grail: You may play the banished card. <em>(You still pay for its costs.)</em>",Item;Regalia,Artifact;Cleric,Norm,Cleric,,,,,,,,0,,,,,,
+512779,Refracting Missile,Refracting Missile,https://tcgplayer-cdn.tcgplayer.com/product/512779_200w.jpg,74,23212,https://cpt.tcgcsv.com/C776,2023-08-25T04:03:10.707,1,Uncommon,068,"Deal damage to target unit equal to the amount of Fractals you control plus 1.
+<br>
+Floating Memory <em>(While paying for a memory cost, you may banish this card from your graveyard to pay for 1 of that cost.)</em>",Action,Spell,Water,Mage,,0.04,0.2,1.99,0.13,,Normal,3,Fast,,,,,
+512779,Refracting Missile,Refracting Missile,https://tcgplayer-cdn.tcgplayer.com/product/512779_200w.jpg,74,23212,https://cpt.tcgcsv.com/C776,2023-08-25T04:03:10.707,1,Uncommon,068,"Deal damage to target unit equal to the amount of Fractals you control plus 1.
+<br>
+Floating Memory <em>(While paying for a memory cost, you may banish this card from your graveyard to pay for 1 of that cost.)</em>",Action,Spell,Water,Mage,,3.25,3.31,4.99,3.38,,Foil,3,Fast,,,,,
+512782,Seer's Sword,Seers Sword,https://tcgplayer-cdn.tcgplayer.com/product/512782_200w.jpg,74,23212,https://cpt.tcgcsv.com/G776,2023-08-25T04:03:10.707,1,Super Rare,018,"[Class Bonus] On Attack: Glimpse 2. (To glimpse, look at that many cards from the top of your deck. Put those cards back on the top or on the bottom of your deck in any order.)",Weapon;Regalia,Sword;Warrior,Norm,Warrior,,2.49,4.52,5.24,2.56,,Foil,1,,<em>Even a simple enchantment grants great advantage.</em>,,,1,3
+512785,Anthem of Vitality,Anthem of Vitality,https://tcgplayer-cdn.tcgplayer.com/product/512785_200w.jpg,74,23212,https://cpt.tcgcsv.com/K776,2023-08-25T04:03:10.707,1,Common,071,"Target Animal or Beast ally gets +3 life and gains spellshroud until end of turn.
+<br>
+Harmonize  — If you've activated a Melody card this turn, put two buff counters on an Animal or Beast ally you control.",Action,Harmony;Skill,Wind,Tamer,,0.2,0.39,2.98,0.38,,Foil,2,Fast,<em>Gaia's anthem invigorates the woodland.</em>,,,,
+512785,Anthem of Vitality,Anthem of Vitality,https://tcgplayer-cdn.tcgplayer.com/product/512785_200w.jpg,74,23212,https://cpt.tcgcsv.com/K776,2023-08-25T04:03:10.707,1,Common,071,"Target Animal or Beast ally gets +3 life and gains spellshroud until end of turn.
+<br>
+Harmonize  — If you've activated a Melody card this turn, put two buff counters on an Animal or Beast ally you control.",Action,Harmony;Skill,Wind,Tamer,,0.03,0.17,1.3,0.06,,Normal,2,Fast,<em>Gaia's anthem invigorates the woodland.</em>,,,,
+512788,Corhazi Outlook,Corhazi Outlook,https://tcgplayer-cdn.tcgplayer.com/product/512788_200w.jpg,74,23212,https://cpt.tcgcsv.com/N776,2023-08-25T04:03:10.707,1,Uncommon,072,"On Enter: Put a preparation counter on your champion.
+<br>
+[Class Bonus] Remove a preparation counter from your champion: Opponents can't activate cards this turn. Glimpse 1. Activate this ability only during your turn.",Ally,Human,Wind,Assassin,,0.79,1.49,19.99,0.93,,Foil,2,,,,3,1,
+512788,Corhazi Outlook,Corhazi Outlook,https://tcgplayer-cdn.tcgplayer.com/product/512788_200w.jpg,74,23212,https://cpt.tcgcsv.com/N776,2023-08-25T04:03:10.707,1,Uncommon,072,"On Enter: Put a preparation counter on your champion.
+<br>
+[Class Bonus] Remove a preparation counter from your champion: Opponents can't activate cards this turn. Glimpse 1. Activate this ability only during your turn.",Ally,Human,Wind,Assassin,,0.06,0.2,1.33,0.13,,Normal,2,,,,3,1,
+512793,Dematerialize,Dematerialize,https://tcgplayer-cdn.tcgplayer.com/product/512793_200w.jpg,74,23212,https://cpt.tcgcsv.com/T776,2023-08-25T04:03:10.707,1,Common,073,Return target regalia to its owner's material deck.,Action,Spell,Wind,Cleric,,0.05,0.17,1.31,0.09,,Normal,3,Slow,"<em>Things worn and torn need not be spurned
+<br>
+to ash and dust. They'll be returned
+<br>
+with new life and purpose earned.""</em>",,,,
+512793,Dematerialize,Dematerialize,https://tcgplayer-cdn.tcgplayer.com/product/512793_200w.jpg,74,23212,https://cpt.tcgcsv.com/T776,2023-08-25T04:03:10.707,1,Common,073,Return target regalia to its owner's material deck.,Action,Spell,Wind,Cleric,,0.2,0.55,9.99,0.43,,Foil,3,Slow,"<em>Things worn and torn need not be spurned
+<br>
+to ash and dust. They'll be returned
+<br>
+with new life and purpose earned.""</em>",,,,
+512794,Displace,Displace,https://tcgplayer-cdn.tcgplayer.com/product/512794_200w.jpg,74,23212,https://cpt.tcgcsv.com/V776,2024-05-20T16:50:50.75,1,Rare,074,"Banish target ally, then return it to the field under its owner's control rested.
+<br>
+[Class Bonus] Put an enlighten counter on your champion.",Action,Spell,Wind,Mage,,0.25,0.54,5.0,0.46,,Normal,2,Fast,"<em>""Oh my. Be careful where you land.""</em>",,,,
+512794,Displace,Displace,https://tcgplayer-cdn.tcgplayer.com/product/512794_200w.jpg,74,23212,https://cpt.tcgcsv.com/V776,2024-05-20T16:50:50.75,1,Rare,074,"Banish target ally, then return it to the field under its owner's control rested.
+<br>
+[Class Bonus] Put an enlighten counter on your champion.",Action,Spell,Wind,Mage,,2.99,4.0,29.79,3.47,,Foil,2,Fast,"<em>""Oh my. Be careful where you land.""</em>",,,,
+512796,Green Slime,Green Slime,https://tcgplayer-cdn.tcgplayer.com/product/512796_200w.jpg,74,23212,https://cpt.tcgcsv.com/X776,2024-05-20T16:51:49.283,1,Uncommon,075,"Pride 3 <em>(This ally won't obey you unless your champion is level 3 or higher.)</em>
+<br>
+On Enter: Put two buff counters on Green Slime. 
+<br>
+[Class Bonus] On Leave: Put the buff counters that were on Green Slime on target ally you control.",Ally,Beast;Slime,Wind,Tamer,,0.05,0.17,1.99,0.1,,Normal,3,,,,1,0,
+512796,Green Slime,Green Slime,https://tcgplayer-cdn.tcgplayer.com/product/512796_200w.jpg,74,23212,https://cpt.tcgcsv.com/X776,2024-05-20T16:51:49.283,1,Uncommon,075,"Pride 3 <em>(This ally won't obey you unless your champion is level 3 or higher.)</em>
+<br>
+On Enter: Put two buff counters on Green Slime. 
+<br>
+[Class Bonus] On Leave: Put the buff counters that were on Green Slime on target ally you control.",Ally,Beast;Slime,Wind,Tamer,,1.99,3.25,17.97,3.46,,Foil,3,,,,1,0,
+512797,Sharpening Stone,Sharpening Stone,https://tcgplayer-cdn.tcgplayer.com/product/512797_200w.jpg,74,23212,https://cpt.tcgcsv.com/Z776,2023-08-25T04:03:10.707,1,Super Rare,019,Banish Sharpening Stone: Up to one target Dagger or Sword weapon you control gets +1 power until end of turn. Draw a card.,Item;Regalia,Accessory;Warrior,Norm,Warrior,,1.99,2.32,29.99,2.32,,Foil,1,,<em>Only neglect begets a dulled edge.</em>,,,,
+512798,Intrepid Spearman,Intrepid Spearman,https://tcgplayer-cdn.tcgplayer.com/product/512798_200w.jpg,74,23212,https://cpt.tcgcsv.com/-776,2023-08-25T04:03:10.707,1,Common,077,"[Level 1+] If attack damage would be dealt to Intrepid Spearman, reveal a card at random from your memory. If that card is wind element, prevent 3 of that damage. Apply this replacement effect only once per turn.",Ally,Human,Wind,Warrior,,0.04,0.17,1.31,0.06,,Normal,4,,"<em>A master lancer, trained to deflect even projectiles.</em>",,2,2,
+512798,Intrepid Spearman,Intrepid Spearman,https://tcgplayer-cdn.tcgplayer.com/product/512798_200w.jpg,74,23212,https://cpt.tcgcsv.com/-776,2023-08-25T04:03:10.707,1,Common,077,"[Level 1+] If attack damage would be dealt to Intrepid Spearman, reveal a card at random from your memory. If that card is wind element, prevent 3 of that damage. Apply this replacement effect only once per turn.",Ally,Human,Wind,Warrior,,0.15,0.35,3.89,0.23,,Foil,4,,"<em>A master lancer, trained to deflect even projectiles.</em>",,2,2,
+512799,"Parcenet, Royal Maid",Parcenet Royal Maid,https://tcgplayer-cdn.tcgplayer.com/product/512799_200w.jpg,74,23212,https://cpt.tcgcsv.com/_776,2023-08-25T04:03:10.707,1,Rare,079,"[Level 2+] Stealth <em>(This unit can't be targeted by attacks unless permitted by true sight.)</em>
+<br>
+REST: Glimpse 1. Reveal the top card of your deck. When you reveal a wind element card this way, another target ally you control gains stealth until end of turn.",Ally;Unique,Human,Wind,Assassin,,3.95,3.99,21.96,4.45,,Foil,2,,,,3,1,
+512799,"Parcenet, Royal Maid",Parcenet Royal Maid,https://tcgplayer-cdn.tcgplayer.com/product/512799_200w.jpg,74,23212,https://cpt.tcgcsv.com/_776,2023-08-25T04:03:10.707,1,Rare,079,"[Level 2+] Stealth <em>(This unit can't be targeted by attacks unless permitted by true sight.)</em>
+<br>
+REST: Glimpse 1. Reveal the top card of your deck. When you reveal a wind element card this way, another target ally you control gains stealth until end of turn.",Ally;Unique,Human,Wind,Assassin,,0.2,0.34,5.0,0.34,,Normal,2,,,,3,1,
+512800,Rally the Peasants,Rally the Peasants,https://tcgplayer-cdn.tcgplayer.com/product/512800_200w.jpg,74,23212,https://cpt.tcgcsv.com/0876,2023-08-25T04:03:10.707,1,Uncommon,080,"[Class Bonus] This card costs 3 less to activate if an opponent controls three or more allies.
+<br>
+Look at the top six cards of your deck. You may reveal a Human card from among them and put it into your hand. Put the rest on the bottom of your deck in any order.",Action,Skill,Wind,Warrior,,0.49,0.75,3.0,0.6,,Foil,3,Slow,,,,,
+512800,Rally the Peasants,Rally the Peasants,https://tcgplayer-cdn.tcgplayer.com/product/512800_200w.jpg,74,23212,https://cpt.tcgcsv.com/0876,2023-08-25T04:03:10.707,1,Uncommon,080,"[Class Bonus] This card costs 3 less to activate if an opponent controls three or more allies.
+<br>
+Look at the top six cards of your deck. You may reveal a Human card from among them and put it into your hand. Put the rest on the bottom of your deck in any order.",Action,Skill,Wind,Warrior,,0.05,0.17,1.32,0.12,,Normal,3,Slow,,,,,
+512802,Scatter Essence,Scatter Essence,https://tcgplayer-cdn.tcgplayer.com/product/512802_200w.jpg,74,23212,https://cpt.tcgcsv.com/3876,2023-08-25T04:03:10.707,1,Uncommon,081,"Destroy target phantasia. 
+<br>
+Floating Memory <em>(While paying for a memory cost, you may banish this card from your graveyard to pay for 1 of that cost.)</em>",Action,Spell,Wind,Cleric,,8.2,8.63,9.98,7.82,,Foil,2,Slow,"<em>""Invasive hexes will not be tolerated within this castle.""</em>",,,,
+512802,Scatter Essence,Scatter Essence,https://tcgplayer-cdn.tcgplayer.com/product/512802_200w.jpg,74,23212,https://cpt.tcgcsv.com/3876,2023-08-25T04:03:10.707,1,Uncommon,081,"Destroy target phantasia. 
+<br>
+Floating Memory <em>(While paying for a memory cost, you may banish this card from your graveyard to pay for 1 of that cost.)</em>",Action,Spell,Wind,Cleric,,0.05,0.35,2.0,0.35,,Normal,2,Slow,"<em>""Invasive hexes will not be tolerated within this castle.""</em>",,,,
+512803,Windrider Invoker,Windrider Invoker,https://tcgplayer-cdn.tcgplayer.com/product/512803_200w.jpg,74,23212,https://cpt.tcgcsv.com/5876,2023-08-25T04:03:10.707,1,Uncommon,082,"On Enter: You may remove two enlighten counters from your champion. If you do, draw a card and Windrider Invoker gets +3 Power until end of turn.",Ally,Human,Wind,Mage,,0.25,0.93,5.0,0.26,,Foil,3,,<em>A burst of wind to dash through the battlefield. Another to take down the enemy.</em>,,2,1,
+512803,Windrider Invoker,Windrider Invoker,https://tcgplayer-cdn.tcgplayer.com/product/512803_200w.jpg,74,23212,https://cpt.tcgcsv.com/5876,2023-08-25T04:03:10.707,1,Uncommon,082,"On Enter: You may remove two enlighten counters from your champion. If you do, draw a card and Windrider Invoker gets +3 Power until end of turn.",Ally,Human,Wind,Mage,,0.05,0.17,1.99,0.1,,Normal,3,,<em>A burst of wind to dash through the battlefield. Another to take down the enemy.</em>,,2,1,
+512804,Shock Therapy,Shock Therapy,https://tcgplayer-cdn.tcgplayer.com/product/512804_200w.jpg,74,23212,https://cpt.tcgcsv.com/6876,2023-08-25T04:03:10.707,1,Rare,083,"[Class Bonus] [Element Bonus] Whenever this card is banished from your memory, put an enlighten counter on your champion.
+<br>
+Deal an amount of damage to target ally equal to the amount of enlighten counters on your champion.",Action,Spell,Arcane,Mage,,0.21,0.99,9.99,0.21,,Foil,2,Fast,,,,,
+512804,Shock Therapy,Shock Therapy,https://tcgplayer-cdn.tcgplayer.com/product/512804_200w.jpg,74,23212,https://cpt.tcgcsv.com/6876,2023-08-25T04:03:10.707,1,Rare,083,"[Class Bonus] [Element Bonus] Whenever this card is banished from your memory, put an enlighten counter on your champion.
+<br>
+Deal an amount of damage to target ally equal to the amount of enlighten counters on your champion.",Action,Spell,Arcane,Mage,,0.09,0.25,1.49,0.2,,Normal,2,Fast,,,,,
+512805,Voltaic Sphere,Voltaic Sphere,https://tcgplayer-cdn.tcgplayer.com/product/512805_200w.jpg,74,23212,https://cpt.tcgcsv.com/7876,2023-08-25T04:03:10.707,1,Super Rare,084,"Deal 3 damage to target unit. If that unit is an ally, deal 5 damage to it instead. 
+<br>
+[Class Bonus] Banish Voltaic Sphere from your graveyard: The next arcane element Spell card you activate this turn costs 1 less to activate.",Action,Spell,Arcane,Mage,,1.49,3.0,7.5,2.03,,Normal,2,Slow,,,,,
+512805,Voltaic Sphere,Voltaic Sphere,https://tcgplayer-cdn.tcgplayer.com/product/512805_200w.jpg,74,23212,https://cpt.tcgcsv.com/7876,2023-08-25T04:03:10.707,1,Super Rare,084,"Deal 3 damage to target unit. If that unit is an ally, deal 5 damage to it instead. 
+<br>
+[Class Bonus] Banish Voltaic Sphere from your graveyard: The next arcane element Spell card you activate this turn costs 1 less to activate.",Action,Spell,Arcane,Mage,,7.07,15.0,29.99,7.08,,Foil,2,Slow,,,,,
+512806,Incarnate Majesty,Incarnate Majesty,https://tcgplayer-cdn.tcgplayer.com/product/512806_200w.jpg,74,23212,https://cpt.tcgcsv.com/8876,2023-08-25T04:03:10.707,1,Super Rare,085,"[Class Bonus] Efficiency
+<br>
+This card costs 1 less to activate for each regalia weapon card in your banishment. 
+<br>
+Put a card named The Majestic Spirit from your material deck or banishment onto the field.",Action,Spell,Crux,Mage,,5.69,10.99,24.99,6.32,,Normal,12,Slow,,,,,
+512807,Slay the King,Slay the King,https://tcgplayer-cdn.tcgplayer.com/product/512807_200w.jpg,74,23212,https://cpt.tcgcsv.com/9876,2023-08-25T04:03:10.707,1,Rare,086,"[Class Bonus] On Attack: You may banish a card from your material deck. If you do, Slay the King gains ""On Kill: You may play the banished card.""",Attack,Sword,Crux,Warrior,,0.1,0.24,1.74,0.17,,Normal,2,,<em>Treachery strikes deadliest in the heart.</em>,,,4,
+512807,Slay the King,Slay the King,https://tcgplayer-cdn.tcgplayer.com/product/512807_200w.jpg,74,23212,https://cpt.tcgcsv.com/9876,2023-08-25T04:03:10.707,1,Rare,086,"[Class Bonus] On Attack: You may banish a card from your material deck. If you do, Slay the King gains ""On Kill: You may play the banished card.""",Attack,Sword,Crux,Warrior,,0.99,1.19,5.49,1.16,,Foil,2,,<em>Treachery strikes deadliest in the heart.</em>,,,4,
+512808,Smoke Bombs,Smoke Bombs,https://tcgplayer-cdn.tcgplayer.com/product/512808_200w.jpg,74,23212,https://cpt.tcgcsv.com/b876,2023-08-25T04:03:10.707,1,Super Rare,020,Banish Smoke Bombs: Target ally gains stealth until end of turn. Draw a card. (Units with stealth can't be targeted by attacks unless permitted by true sight.),Item;Regalia,Assassin;Bauble,Norm,Assassin,,29.0,29.5,29.99,22.91,,Foil,1,,"<em>""Where'd they go? They were right there!""<br>— Very Attentive Guard</em>",,,,
+512810,Surveillance Stone,Surveillance Stone,https://tcgplayer-cdn.tcgplayer.com/product/512810_200w.jpg,74,23212,https://cpt.tcgcsv.com/d876,2023-08-25T04:03:10.707,1,Super Rare,021,"Whenever an opponent declares an attack with a unit for the third time each turn, you may banish Surveillance Stone. If you do, draw a card.",Item;Regalia,Crystal;Mage,Norm,Mage,,2.74,2.93,5.0,2.67,,Foil,0,,"<em>A simple tool that offers peace of mind and, with it, a good night's sleep.</em>",,,,
+512811,Sword of Seeking,Sword of Seeking,https://tcgplayer-cdn.tcgplayer.com/product/512811_200w.jpg,74,23212,https://cpt.tcgcsv.com/f876,2023-08-25T04:03:10.707,1,Super Rare,022,[Class Bonus] True Sight (Attacks using this weapon can target units with stealth. Apply this effect only if your champion's class matches this card's class.),Weapon;Regalia,Sword;Warrior,Norm,Warrior,,19.99,32.99,34.48,22.73,,Foil,0,,"<em>Before this blade, nothing remains hidden.</em>",,,1,2
+512812,Tome of Knowledge,Tome of Knowledge,https://tcgplayer-cdn.tcgplayer.com/product/512812_200w.jpg,74,23212,https://cpt.tcgcsv.com/g876,2023-08-25T04:03:10.707,1,Super Rare,023,[Class Bonus] Your champion gets +1 level. (Apply this effect only if your champion's class matches this card's class.)<br>Banish Tome of Knowledge: Draw a card.,Item;Regalia,Book;Mage,Norm,Mage,,5.99,7.27,35.0,7.92,,Foil,1,,,,,,
+512814,Warrior's Longsword,Warriors Longsword,https://tcgplayer-cdn.tcgplayer.com/product/512814_200w.jpg,74,23212,https://cpt.tcgcsv.com/j876,2023-08-25T04:03:10.707,1,Super Rare,024,[Class Bonus] Warrior's Longsword gets +1 power. (Apply this effect only if your champion's class matches this card's class.),Weapon;Regalia,Sword;Warrior,Norm,Warrior,,1.75,3.51,35.98,2.3,,Foil,1,,<em>A dependable sword made of sturdy steel with an edge honed enough to pierce most defenses. A warrior's true companion.</em>,,,1,2
+512816,Water Resonance Bauble,Water Resonance Bauble,https://tcgplayer-cdn.tcgplayer.com/product/512816_200w.jpg,74,23212,https://cpt.tcgcsv.com/l876,2023-08-25T04:03:10.707,1,Super Rare,025,Banish Water Resonance Bauble: Draw a card. Activate this ability only if an opponent controls a water element champion.,Item;Regalia,Bauble;Mage,Norm,Mage,,25.0,25.99,31.0,23.21,,Foil,0,,"<em>Torrents crash and turn along the edges of this orb, waiting for their inevitable release.</em>",,,,
+512817,Wind Resonance Bauble,Wind Resonance Bauble,https://tcgplayer-cdn.tcgplayer.com/product/512817_200w.jpg,74,23212,https://cpt.tcgcsv.com/m876,2023-08-25T04:03:10.707,1,Super Rare,026,Banish Wind Resonance Bauble: Draw a card. Activate this ability only if an opponent controls a wind element champion.,Item;Regalia,Bauble;Mage,Norm,Mage,,,,,,,,0,,<em>A spirit of wind sleeps within this bauble. Perhaps it will grant blessings once it wakes.</em>,,,,
+515328,Fractured Crown Sealed Kit,Fractured Crown Sealed Kit,https://tcgplayer-cdn.tcgplayer.com/product/515328_200w.jpg,74,23212,https://cpt.tcgcsv.com/B886,2023-09-05T16:29:26.917,1,,,,,,,,,34.0,34.3,34.99,34.3,,Normal,,,,,,,
