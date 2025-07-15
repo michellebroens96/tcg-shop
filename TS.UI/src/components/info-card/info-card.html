@@ -1,6 +1,6 @@
-<div>
+<div class="flex flex-col items-center w-full max-w-xs p-4">
   <p>{{ card()?.name }}</p>
-  <img [src]="card()?.imageUrl" alt="{{ card()?.name }}" />
+  <img class="h-72 w-54" [src]="card()?.imageUrl" alt="{{ card()?.name }}" />
   <p>{{ card()?.description }}</p>
   <p>Price: {{ card()?.price }}</p>
 </div>

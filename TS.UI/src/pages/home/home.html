@@ -1,5 +1,6 @@
 <app-navbar />
-<div class="grid grid-cols-3 gap-4">
+
+<div class="flex flex-row gap-2">
   @for (card of cards(); track $index) {
   <app-info-card [card]="card" />
   }
