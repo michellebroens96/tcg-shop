@@ -1,7 +1,6 @@
 export interface Card {
   productId: number;
   name: string;
-  extDescription?: string;
   imageUrl: string;
   marketPrice: string;
   midPrice: string;

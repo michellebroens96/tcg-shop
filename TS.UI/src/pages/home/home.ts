@@ -4,6 +4,7 @@ import { InfoCard } from '../../components/info-card/info-card';
 import { Card } from '../../models/card';
 import { HttpClient } from '@angular/common/http';
 import Papa from 'papaparse';
+import { TcgcsvService } from '../../app/services/tcgcsv.service';
 
 @Component({
   selector: 'app-home',
@@ -13,18 +14,38 @@ import Papa from 'papaparse';
 export class Home {
   cards = signal<Card[]>([]);
 
-  private http = inject(HttpClient);
+  constructor(private tcgcsvService: TcgcsvService) {}
+
   ngOnInit() {
-    this.http
-      .get('assets/csv/HVN.csv', { responseType: 'text' })
-      .subscribe((csvData) => {
-        Papa.parse(csvData, {
-          header: true,
-          skipEmptyLines: true,
-          complete: (result) => {
-            this.cards.set(result.data as Card[]);
-          },
+    this.tcgcsvService.getDoaData().subscribe(({ products, prices }) => {
+      const productResults = (products as any).results;
+      const priceResults = (prices as any).results;
+
+      const priceMap = new Map<
+        number,
+        { marketPrice: string; midPrice: string }
+      >();
+      for (const price of priceResults) {
+        priceMap.set(price.productId, {
+          marketPrice: price.marketPrice,
+          midPrice: price.midPrice,
         });
+      }
+
+      const cards: Card[] = productResults.map((product: any) => {
+        const price = priceMap.get(product.productId);
+        return {
+          productId: product.productId,
+          name: product.name,
+          imageUrl: product.imageUrl,
+          subTypeName: product.subTypeName,
+          marketPrice: price?.marketPrice ?? '',
+          midPrice: price?.midPrice ?? '',
+        };
       });
+
+      this.cards.set(cards);
+      console.log(this.cards());
+    });
   }
 }
