@@ -17,35 +17,8 @@ export class Home {
   constructor(private tcgcsvService: TcgcsvService) {}
 
   ngOnInit() {
-    this.tcgcsvService.getDoaData().subscribe(({ products, prices }) => {
-      const productResults = (products as any).results;
-      const priceResults = (prices as any).results;
-
-      const priceMap = new Map<
-        number,
-        { marketPrice: string; midPrice: string }
-      >();
-      for (const price of priceResults) {
-        priceMap.set(price.productId, {
-          marketPrice: price.marketPrice,
-          midPrice: price.midPrice,
-        });
-      }
-
-      const cards: Card[] = productResults.map((product: any) => {
-        const price = priceMap.get(product.productId);
-        return {
-          productId: product.productId,
-          name: product.name,
-          imageUrl: product.imageUrl,
-          subTypeName: product.subTypeName,
-          marketPrice: price?.marketPrice ?? '',
-          midPrice: price?.midPrice ?? '',
-        };
-      });
-
+    this.tcgcsvService.getDoaData().subscribe((cards: Card[]) => {
       this.cards.set(cards);
-      console.log(this.cards());
     });
   }
 }
